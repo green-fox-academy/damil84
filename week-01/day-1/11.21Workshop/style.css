@@ -17,7 +17,7 @@ body {
 .topnav {
     background-color: #333333;
     overflow: hidden;
-    background-image:url(dog.png);
+    background-image:url(images/dog.png);
     background-repeat: no-repeat;
     background-size: 3.5em;
     }
