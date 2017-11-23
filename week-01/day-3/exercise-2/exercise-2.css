@@ -1,0 +1,26 @@
+div{
+    box-sizing: border-box;
+    border: 6px solid #fff;
+    text-align: center;
+    padding: 1rem;
+    color: #fff;
+    font-family: 'arial';
+    width: 200px;
+}
+
+
+p:nth-child(1) {
+    background-color: #E67676;
+}
+
+p:nth-child(2) {
+    background-color:#F2F062;
+}
+
+p:nth-child(3) {
+    background-color:#A9E6E6;
+}
+
+p:nth-child(4) {
+    background-color: #7692E4;
+}
