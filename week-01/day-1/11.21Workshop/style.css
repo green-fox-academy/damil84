@@ -30,6 +30,7 @@ body {
         padding: 16px 16px;
         text-decoration: none;
         font-size: 17px;
+        
     }
   
     
@@ -44,13 +45,19 @@ body {
         height:50px;
         background-image:url(dog.png);
         }
+a:hover {
+    background-color:whitesmoke;
+}
 
 h1 {
   font-size: 65px;
   font-family: 'Merriweather', serif;
   font-family: 'Lobster', cursive;
-}
 
+}
+h1:hover {
+    background-color: red;
+}
 
 h2 {
     font-size: 35px;
