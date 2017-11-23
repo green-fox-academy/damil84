@@ -1,0 +1,18 @@
+div {
+    box-sizing: border-box;
+    margin-top: 18px;
+    width: 350px;
+    height: 130px;
+    background-color: #0E91A1;
+    padding-top: 10px;
+    border: 5px solid #7DCE94;  
+    
+}
+
+a {
+    font-size: 30px;
+    font-family: Verdana;
+    margin-top: 5px;
+    padding-left: 10px;
+    color: #046169;
+}
