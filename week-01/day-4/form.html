@@ -9,6 +9,59 @@
     
 </head>
 <body>
-  <header><img src="img/dog.png" /></header>    
+ 
+  <form> 
+    <div>
+      <h2>
+        <img src="img/dog.png" />Profil
+      </h2>
+    </div>
+    
+    <div>
+          <a style="
+            padding-left: 5px;
+            padding-bottom: 5px;
+            padding-top: 5px;
+            padding-right: 115px;"> Személyes adatok  </a></a><br><br>
+          <label for="name">Név:</label>
+          <input type="text" id="name" name="user_name" style="width: 280px; height: 30px;" required    > 
+          
+          <div class="unoka">          
+            <label for="date">Születési éved:</label><br/>
+            <input type="number" id="year" name="year" style="width: 42%; height: 30px;" required placeholder="pl. 1984" maxlength="4"   >
+          </div>
+          <div class="unoka">
+            <label>Nemed</label><br>          
+            <input type="radio" id="female" name="gender" />
+            <label for="female">Nő</label>
+            <input type="radio" id="male" name="gender" />
+            <label for="male">Férfi</label><br/>
+          </div>
+
+
+
+
+    </div>
+
+    <div>
+            <a style="
+            padding-left: 5px;
+            padding-bottom: 5px;
+            padding-top: 5px;
+            padding-right: 182px;" >Kapcsolat  </a><br>
+            <label for="tel">Telefonszám:</tel>
+            <input type="tel" id="tel" name="tel" style="width: 280px; height: 30px" required placeholder="+36XXXXXXXX"  maxlength="15" > 
+      </div>
+  
+
+    </div>
+
+    <div>
+        bla bla bla
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="user_name">    
+    </div>
+
+  </form>   
 </body>
 </html>
