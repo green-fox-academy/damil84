@@ -1,0 +1,10 @@
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise10\obj\Debug\netcoreapp2.0\exercise10.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise10\obj\Debug\netcoreapp2.0\exercise10.AssemblyInfoInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise10\obj\Debug\netcoreapp2.0\exercise10.AssemblyInfo.cs
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise10\bin\Debug\netcoreapp2.0\exercise10.deps.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise10\bin\Debug\netcoreapp2.0\exercise10.runtimeconfig.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise10\bin\Debug\netcoreapp2.0\exercise10.runtimeconfig.dev.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise10\bin\Debug\netcoreapp2.0\exercise10.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise10\bin\Debug\netcoreapp2.0\exercise10.pdb
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise10\obj\Debug\netcoreapp2.0\exercise10.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise10\obj\Debug\netcoreapp2.0\exercise10.pdb
