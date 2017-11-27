@@ -1,0 +1,11 @@
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise5\obj\Debug\netcoreapp2.0\exercise5.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise5\obj\Debug\netcoreapp2.0\exercise5.AssemblyInfoInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise5\obj\Debug\netcoreapp2.0\exercise5.AssemblyInfo.cs
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise5\bin\Debug\netcoreapp2.0\exercise5.deps.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise5\bin\Debug\netcoreapp2.0\exercise5.runtimeconfig.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise5\bin\Debug\netcoreapp2.0\exercise5.runtimeconfig.dev.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise5\bin\Debug\netcoreapp2.0\exercise5.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise5\bin\Debug\netcoreapp2.0\exercise5.pdb
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise5\obj\Debug\netcoreapp2.0\exercise5.csprojResolveAssemblyReference.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise5\obj\Debug\netcoreapp2.0\exercise5.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise5\obj\Debug\netcoreapp2.0\exercise5.pdb

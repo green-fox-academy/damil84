@@ -1,0 +1,11 @@
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise7\obj\Debug\netcoreapp2.0\exercise7.csprojResolveAssemblyReference.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise7\obj\Debug\netcoreapp2.0\exercise7.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise7\obj\Debug\netcoreapp2.0\exercise7.AssemblyInfoInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise7\obj\Debug\netcoreapp2.0\exercise7.AssemblyInfo.cs
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise7\bin\Debug\netcoreapp2.0\exercise7.deps.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise7\bin\Debug\netcoreapp2.0\exercise7.runtimeconfig.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise7\bin\Debug\netcoreapp2.0\exercise7.runtimeconfig.dev.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise7\bin\Debug\netcoreapp2.0\exercise7.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise7\bin\Debug\netcoreapp2.0\exercise7.pdb
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise7\obj\Debug\netcoreapp2.0\exercise7.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise7\obj\Debug\netcoreapp2.0\exercise7.pdb
