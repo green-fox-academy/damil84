@@ -6,7 +6,16 @@ namespace exercise8
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // Swap the values of the variables
+            int a = 123;
+            int b = 526;
+
+            a = a + b;
+            b = a - b;
+            a = a - b;
+            Console.WriteLine("a= " + a);
+            Console.WriteLine("b= " + b);
+            Console.ReadLine();
         }
     }
 }
