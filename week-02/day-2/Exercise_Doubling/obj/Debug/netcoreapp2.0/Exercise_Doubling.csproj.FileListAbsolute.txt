@@ -1,0 +1,11 @@
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Doubling\obj\Debug\netcoreapp2.0\Exercise_Doubling.csprojResolveAssemblyReference.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Doubling\obj\Debug\netcoreapp2.0\Exercise_Doubling.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Doubling\obj\Debug\netcoreapp2.0\Exercise_Doubling.AssemblyInfoInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Doubling\obj\Debug\netcoreapp2.0\Exercise_Doubling.AssemblyInfo.cs
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Doubling\bin\Debug\netcoreapp2.0\Exercise_Doubling.deps.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Doubling\bin\Debug\netcoreapp2.0\Exercise_Doubling.runtimeconfig.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Doubling\bin\Debug\netcoreapp2.0\Exercise_Doubling.runtimeconfig.dev.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Doubling\bin\Debug\netcoreapp2.0\Exercise_Doubling.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Doubling\bin\Debug\netcoreapp2.0\Exercise_Doubling.pdb
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Doubling\obj\Debug\netcoreapp2.0\Exercise_Doubling.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Doubling\obj\Debug\netcoreapp2.0\Exercise_Doubling.pdb

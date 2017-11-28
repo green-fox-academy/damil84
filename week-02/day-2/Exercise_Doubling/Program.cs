@@ -1,12 +1,21 @@
 ﻿using System;
 
-namespace Exercise_Doubling
+namespace Doubling
 {
     class Program
     {
+
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int ak = 123;
+            Console.WriteLine(doubling(ak));
+            Console.ReadLine();
         }
+
+        static int Doubling(int number)
+        {
+            return (2 * number);
+        }
+
     }
 }

@@ -1,0 +1,11 @@
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_GreeterFunction\obj\Debug\netcoreapp2.0\Exercise_GreeterFunction.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_GreeterFunction\obj\Debug\netcoreapp2.0\Exercise_GreeterFunction.AssemblyInfoInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_GreeterFunction\obj\Debug\netcoreapp2.0\Exercise_GreeterFunction.AssemblyInfo.cs
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_GreeterFunction\obj\Debug\netcoreapp2.0\Exercise_GreeterFunction.csprojResolveAssemblyReference.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_GreeterFunction\bin\Debug\netcoreapp2.0\Exercise_GreeterFunction.deps.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_GreeterFunction\bin\Debug\netcoreapp2.0\Exercise_GreeterFunction.runtimeconfig.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_GreeterFunction\bin\Debug\netcoreapp2.0\Exercise_GreeterFunction.runtimeconfig.dev.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_GreeterFunction\bin\Debug\netcoreapp2.0\Exercise_GreeterFunction.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_GreeterFunction\bin\Debug\netcoreapp2.0\Exercise_GreeterFunction.pdb
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_GreeterFunction\obj\Debug\netcoreapp2.0\Exercise_GreeterFunction.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_GreeterFunction\obj\Debug\netcoreapp2.0\Exercise_GreeterFunction.pdb
