@@ -24,7 +24,7 @@ namespace Exercise_CompareLength
             {
                 Console.WriteLine("p1 has more elements than p2");
             }
-           
+
             Console.ReadKey();
         }
     }

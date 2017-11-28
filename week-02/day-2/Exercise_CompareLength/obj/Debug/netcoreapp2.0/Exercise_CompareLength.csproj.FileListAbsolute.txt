@@ -1,0 +1,11 @@
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_CompareLength\obj\Debug\netcoreapp2.0\Exercise_CompareLength.csprojResolveAssemblyReference.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_CompareLength\obj\Debug\netcoreapp2.0\Exercise_CompareLength.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_CompareLength\obj\Debug\netcoreapp2.0\Exercise_CompareLength.AssemblyInfoInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_CompareLength\obj\Debug\netcoreapp2.0\Exercise_CompareLength.AssemblyInfo.cs
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_CompareLength\bin\Debug\netcoreapp2.0\Exercise_CompareLength.deps.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_CompareLength\bin\Debug\netcoreapp2.0\Exercise_CompareLength.runtimeconfig.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_CompareLength\bin\Debug\netcoreapp2.0\Exercise_CompareLength.runtimeconfig.dev.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_CompareLength\bin\Debug\netcoreapp2.0\Exercise_CompareLength.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_CompareLength\bin\Debug\netcoreapp2.0\Exercise_CompareLength.pdb
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_CompareLength\obj\Debug\netcoreapp2.0\Exercise_CompareLength.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_CompareLength\obj\Debug\netcoreapp2.0\Exercise_CompareLength.pdb
