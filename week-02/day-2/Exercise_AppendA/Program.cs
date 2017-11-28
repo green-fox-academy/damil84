@@ -1,12 +1,20 @@
 ﻿using System;
 
 namespace Exercise_AppendA
-{
+{ 
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string am = "kuty";
+            appendA(am);
+            Console.ReadLine();
+
+
+        }
+        static void appendA(string am)
+        {
+            Console.WriteLine(am + "a");
         }
     }
 }
