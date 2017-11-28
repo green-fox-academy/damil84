@@ -1,0 +1,11 @@
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Printer\bin\Debug\netcoreapp2.0\Exercise_Printer.deps.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Printer\bin\Debug\netcoreapp2.0\Exercise_Printer.runtimeconfig.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Printer\bin\Debug\netcoreapp2.0\Exercise_Printer.runtimeconfig.dev.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Printer\bin\Debug\netcoreapp2.0\Exercise_Printer.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Printer\bin\Debug\netcoreapp2.0\Exercise_Printer.pdb
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Printer\obj\Debug\netcoreapp2.0\Exercise_Printer.csprojResolveAssemblyReference.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Printer\obj\Debug\netcoreapp2.0\Exercise_Printer.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Printer\obj\Debug\netcoreapp2.0\Exercise_Printer.AssemblyInfoInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Printer\obj\Debug\netcoreapp2.0\Exercise_Printer.AssemblyInfo.cs
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Printer\obj\Debug\netcoreapp2.0\Exercise_Printer.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Printer\obj\Debug\netcoreapp2.0\Exercise_Printer.pdb
