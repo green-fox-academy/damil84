@@ -1,0 +1,11 @@
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Third_Array\obj\Debug\netcoreapp2.0\Exercise_Third_Array.csprojResolveAssemblyReference.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Third_Array\obj\Debug\netcoreapp2.0\Exercise_Third_Array.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Third_Array\obj\Debug\netcoreapp2.0\Exercise_Third_Array.AssemblyInfoInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Third_Array\obj\Debug\netcoreapp2.0\Exercise_Third_Array.AssemblyInfo.cs
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Third_Array\bin\Debug\netcoreapp2.0\Exercise_Third_Array.deps.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Third_Array\bin\Debug\netcoreapp2.0\Exercise_Third_Array.runtimeconfig.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Third_Array\bin\Debug\netcoreapp2.0\Exercise_Third_Array.runtimeconfig.dev.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Third_Array\bin\Debug\netcoreapp2.0\Exercise_Third_Array.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Third_Array\bin\Debug\netcoreapp2.0\Exercise_Third_Array.pdb
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Third_Array\obj\Debug\netcoreapp2.0\Exercise_Third_Array.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Third_Array\obj\Debug\netcoreapp2.0\Exercise_Third_Array.pdb
