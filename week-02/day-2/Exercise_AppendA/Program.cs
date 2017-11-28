@@ -6,15 +6,17 @@ namespace Exercise_AppendA
     {
         static void Main(string[] args)
         {
-            string am = "kuty";
-            appendA(am);
+            Console.WriteLine("Please give me the number of your choosing: ");
+            int number =Convert.ToInt32(Console.ReadLine());
+            Sum(number);
             Console.ReadLine();
 
 
         }
-        static void appendA(string am)
+        static void Sum(int number)
         {
-            Console.WriteLine(am + "a");
+            int a = number * (number + 1) / 2;
+            Console.WriteLine(a);
         }
     }
 }
