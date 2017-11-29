@@ -1,0 +1,11 @@
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Reverse\bin\Debug\netcoreapp2.0\Exercise_Reverse.deps.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Reverse\bin\Debug\netcoreapp2.0\Exercise_Reverse.runtimeconfig.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Reverse\bin\Debug\netcoreapp2.0\Exercise_Reverse.runtimeconfig.dev.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Reverse\bin\Debug\netcoreapp2.0\Exercise_Reverse.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Reverse\bin\Debug\netcoreapp2.0\Exercise_Reverse.pdb
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Reverse\obj\Debug\netcoreapp2.0\Exercise_Reverse.csprojResolveAssemblyReference.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Reverse\obj\Debug\netcoreapp2.0\Exercise_Reverse.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Reverse\obj\Debug\netcoreapp2.0\Exercise_Reverse.AssemblyInfoInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Reverse\obj\Debug\netcoreapp2.0\Exercise_Reverse.AssemblyInfo.cs
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Reverse\obj\Debug\netcoreapp2.0\Exercise_Reverse.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Reverse\obj\Debug\netcoreapp2.0\Exercise_Reverse.pdb
