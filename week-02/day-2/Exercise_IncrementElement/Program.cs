@@ -6,7 +6,14 @@ namespace Exercise_IncrementElement
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int[] t = { 1, 2, 3, 4, 5 };
+
+
+            Console.WriteLine("The incremented third elemenent is: " + ++t[2]);
+            Console.ReadLine();
         }
+
     }
 }
+
+

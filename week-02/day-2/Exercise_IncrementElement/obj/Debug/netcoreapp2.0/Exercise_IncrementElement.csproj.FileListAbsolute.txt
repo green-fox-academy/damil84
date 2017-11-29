@@ -1,0 +1,11 @@
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_IncrementElement\obj\Debug\netcoreapp2.0\Exercise_IncrementElement.csprojResolveAssemblyReference.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_IncrementElement\obj\Debug\netcoreapp2.0\Exercise_IncrementElement.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_IncrementElement\obj\Debug\netcoreapp2.0\Exercise_IncrementElement.AssemblyInfoInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_IncrementElement\obj\Debug\netcoreapp2.0\Exercise_IncrementElement.AssemblyInfo.cs
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_IncrementElement\bin\Debug\netcoreapp2.0\Exercise_IncrementElement.deps.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_IncrementElement\bin\Debug\netcoreapp2.0\Exercise_IncrementElement.runtimeconfig.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_IncrementElement\bin\Debug\netcoreapp2.0\Exercise_IncrementElement.runtimeconfig.dev.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_IncrementElement\bin\Debug\netcoreapp2.0\Exercise_IncrementElement.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_IncrementElement\bin\Debug\netcoreapp2.0\Exercise_IncrementElement.pdb
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_IncrementElement\obj\Debug\netcoreapp2.0\Exercise_IncrementElement.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_IncrementElement\obj\Debug\netcoreapp2.0\Exercise_IncrementElement.pdb
