@@ -1,0 +1,10 @@
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_DoubleItems\obj\Debug\netcoreapp2.0\Exercise_DoubleItems.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_DoubleItems\obj\Debug\netcoreapp2.0\Exercise_DoubleItems.AssemblyInfoInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_DoubleItems\obj\Debug\netcoreapp2.0\Exercise_DoubleItems.AssemblyInfo.cs
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_DoubleItems\bin\Debug\netcoreapp2.0\Exercise_DoubleItems.deps.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_DoubleItems\bin\Debug\netcoreapp2.0\Exercise_DoubleItems.runtimeconfig.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_DoubleItems\bin\Debug\netcoreapp2.0\Exercise_DoubleItems.runtimeconfig.dev.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_DoubleItems\bin\Debug\netcoreapp2.0\Exercise_DoubleItems.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_DoubleItems\bin\Debug\netcoreapp2.0\Exercise_DoubleItems.pdb
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_DoubleItems\obj\Debug\netcoreapp2.0\Exercise_DoubleItems.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_DoubleItems\obj\Debug\netcoreapp2.0\Exercise_DoubleItems.pdb
