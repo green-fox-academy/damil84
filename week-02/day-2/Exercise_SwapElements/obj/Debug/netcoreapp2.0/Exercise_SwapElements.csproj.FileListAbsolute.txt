@@ -1,0 +1,10 @@
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_SwapElements\obj\Debug\netcoreapp2.0\Exercise_SwapElements.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_SwapElements\obj\Debug\netcoreapp2.0\Exercise_SwapElements.AssemblyInfoInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_SwapElements\obj\Debug\netcoreapp2.0\Exercise_SwapElements.AssemblyInfo.cs
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_SwapElements\bin\Debug\netcoreapp2.0\Exercise_SwapElements.deps.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_SwapElements\bin\Debug\netcoreapp2.0\Exercise_SwapElements.runtimeconfig.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_SwapElements\bin\Debug\netcoreapp2.0\Exercise_SwapElements.runtimeconfig.dev.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_SwapElements\bin\Debug\netcoreapp2.0\Exercise_SwapElements.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_SwapElements\bin\Debug\netcoreapp2.0\Exercise_SwapElements.pdb
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_SwapElements\obj\Debug\netcoreapp2.0\Exercise_SwapElements.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_SwapElements\obj\Debug\netcoreapp2.0\Exercise_SwapElements.pdb
