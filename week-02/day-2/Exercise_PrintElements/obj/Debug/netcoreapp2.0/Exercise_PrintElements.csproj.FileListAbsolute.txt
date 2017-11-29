@@ -1,0 +1,10 @@
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_PrintElements\obj\Debug\netcoreapp2.0\Exercise_PrintElements.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_PrintElements\obj\Debug\netcoreapp2.0\Exercise_PrintElements.AssemblyInfoInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_PrintElements\obj\Debug\netcoreapp2.0\Exercise_PrintElements.AssemblyInfo.cs
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_PrintElements\bin\Debug\netcoreapp2.0\Exercise_PrintElements.deps.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_PrintElements\bin\Debug\netcoreapp2.0\Exercise_PrintElements.runtimeconfig.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_PrintElements\bin\Debug\netcoreapp2.0\Exercise_PrintElements.runtimeconfig.dev.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_PrintElements\bin\Debug\netcoreapp2.0\Exercise_PrintElements.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_PrintElements\bin\Debug\netcoreapp2.0\Exercise_PrintElements.pdb
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_PrintElements\obj\Debug\netcoreapp2.0\Exercise_PrintElements.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_PrintElements\obj\Debug\netcoreapp2.0\Exercise_PrintElements.pdb
