@@ -6,7 +6,15 @@ namespace Exercise_Sum
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int[] s = new int[] { 1, 2, 3, 4, 5 };
+            int sum = 0;
+            for (int i = 0; i < s.Length; i++)
+                {
+                sum += s[i];
+                }
+            Console.WriteLine(sum);
+            Console.ReadLine();
         }
     }
 }
+
