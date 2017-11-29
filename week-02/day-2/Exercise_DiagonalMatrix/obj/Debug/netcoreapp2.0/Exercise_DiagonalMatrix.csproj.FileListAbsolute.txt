@@ -1,0 +1,11 @@
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_DiagonalMatrix\obj\Debug\netcoreapp2.0\Exercise_DiagonalMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_DiagonalMatrix\obj\Debug\netcoreapp2.0\Exercise_DiagonalMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_DiagonalMatrix\obj\Debug\netcoreapp2.0\Exercise_DiagonalMatrix.AssemblyInfoInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_DiagonalMatrix\obj\Debug\netcoreapp2.0\Exercise_DiagonalMatrix.AssemblyInfo.cs
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_DiagonalMatrix\bin\Debug\netcoreapp2.0\Exercise_DiagonalMatrix.deps.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_DiagonalMatrix\bin\Debug\netcoreapp2.0\Exercise_DiagonalMatrix.runtimeconfig.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_DiagonalMatrix\bin\Debug\netcoreapp2.0\Exercise_DiagonalMatrix.runtimeconfig.dev.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_DiagonalMatrix\bin\Debug\netcoreapp2.0\Exercise_DiagonalMatrix.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_DiagonalMatrix\bin\Debug\netcoreapp2.0\Exercise_DiagonalMatrix.pdb
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_DiagonalMatrix\obj\Debug\netcoreapp2.0\Exercise_DiagonalMatrix.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_DiagonalMatrix\obj\Debug\netcoreapp2.0\Exercise_DiagonalMatrix.pdb

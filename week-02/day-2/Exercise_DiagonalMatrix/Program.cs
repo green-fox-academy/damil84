@@ -6,41 +6,32 @@ namespace Exercise_DiagonalMatrix
     {
         static void Main(string[] args)
         {
-            int[,] array = new int[4, 4];
+            int[,] array = new int[4, 4]
             {
                 { 1, 0, 0, 0},
                 { 0, 1, 0, 0},
                 { 0, 0, 1, 0},
-                { 0, 0, 0, 1}
+                { 0, 0, 0, 1},
             };
             Diagonal(array);
-            Console.ReadKey();        
+            Console.ReadLine();        
         }
+
 
         static void Diagonal(int[,] a)
         {
             for (int i = 0; i < a.GetLength(0); i++)
             {
-
-            }
-
-
-        }
-    }
-}
-            thing(array);
-            Console.ReadKey();
-        }
-        static void thing(int[,] ar)
-        {
-            for (int i = 0; i < ar.GetLength(0); i++)
-            {
-                for (int j = 0; j < ar.GetLength(1); j++)
+                for (int k = 0; k < a.GetLength(1); k++)
                 {
-                    Console.Write(ar[i, j]);
+                    Console.Write(a[i, k]);
                 }
-                Console.Write("\n");
+                Console.WriteLine();
+
+
             }
+
+
         }
     }
 }
