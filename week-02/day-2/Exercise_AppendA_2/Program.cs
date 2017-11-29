@@ -1,12 +1,27 @@
 ﻿using System;
 
-namespace Exercise_AppendA_2
+namespace AppendA_2
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string[] animals = { "kuty", "macsk", "cic" };
+            AA(animals);
+            for (int i = 0; i < animals.Length; i++)
+            {
+                Console.WriteLine(animals[i]);
+            }
+            Console.ReadLine();
+        }
+
+        static string[] AA(string[] array)
+        {
+            for (int i = 0; i < array.Length; i++)
+            {
+                array[i] += "a";
+            }
+            return array;
         }
     }
 }

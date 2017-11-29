@@ -1,0 +1,10 @@
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_AppendA_2\bin\Debug\netcoreapp2.0\Exercise_AppendA_2.deps.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_AppendA_2\bin\Debug\netcoreapp2.0\Exercise_AppendA_2.runtimeconfig.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_AppendA_2\bin\Debug\netcoreapp2.0\Exercise_AppendA_2.runtimeconfig.dev.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_AppendA_2\bin\Debug\netcoreapp2.0\Exercise_AppendA_2.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_AppendA_2\bin\Debug\netcoreapp2.0\Exercise_AppendA_2.pdb
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_AppendA_2\obj\Debug\netcoreapp2.0\Exercise_AppendA_2.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_AppendA_2\obj\Debug\netcoreapp2.0\Exercise_AppendA_2.AssemblyInfoInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_AppendA_2\obj\Debug\netcoreapp2.0\Exercise_AppendA_2.AssemblyInfo.cs
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_AppendA_2\obj\Debug\netcoreapp2.0\Exercise_AppendA_2.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_AppendA_2\obj\Debug\netcoreapp2.0\Exercise_AppendA_2.pdb
