@@ -1,0 +1,11 @@
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_SumAll\bin\Debug\netcoreapp2.0\Exercise_SumAll.deps.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_SumAll\bin\Debug\netcoreapp2.0\Exercise_SumAll.runtimeconfig.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_SumAll\bin\Debug\netcoreapp2.0\Exercise_SumAll.runtimeconfig.dev.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_SumAll\bin\Debug\netcoreapp2.0\Exercise_SumAll.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_SumAll\bin\Debug\netcoreapp2.0\Exercise_SumAll.pdb
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_SumAll\obj\Debug\netcoreapp2.0\Exercise_SumAll.csprojResolveAssemblyReference.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_SumAll\obj\Debug\netcoreapp2.0\Exercise_SumAll.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_SumAll\obj\Debug\netcoreapp2.0\Exercise_SumAll.AssemblyInfoInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_SumAll\obj\Debug\netcoreapp2.0\Exercise_SumAll.AssemblyInfo.cs
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_SumAll\obj\Debug\netcoreapp2.0\Exercise_SumAll.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_SumAll\obj\Debug\netcoreapp2.0\Exercise_SumAll.pdb

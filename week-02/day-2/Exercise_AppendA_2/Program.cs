@@ -7,7 +7,7 @@ namespace AppendA_2
         static void Main(string[] args)
         {
             string[] animals = { "kuty", "macsk", "cic" };
-            AA(animals);
+            AppendA(animals);
             for (int i = 0; i < animals.Length; i++)
             {
                 Console.WriteLine(animals[i]);
@@ -15,7 +15,7 @@ namespace AppendA_2
             Console.ReadLine();
         }
 
-        static string[] AA(string[] array)
+        static string[] AppendA(string[] array)
         {
             for (int i = 0; i < array.Length; i++)
             {

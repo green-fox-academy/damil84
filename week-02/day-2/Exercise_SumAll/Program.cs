@@ -6,7 +6,14 @@ namespace Exercise_SumAll
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int[] ai = new int[] { 3, 4, 5, 6, 7 };
+            int sum = 0;
+            for (int i = 0; i < ai.Length; i++)
+            {
+                sum += ai[i];
+            }
+            Console.WriteLine(sum);
+            Console.Readline();
         }
     }
 }
