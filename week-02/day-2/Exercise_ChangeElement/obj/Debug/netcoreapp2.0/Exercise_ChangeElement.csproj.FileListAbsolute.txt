@@ -1,0 +1,11 @@
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_ChangeElement\bin\Debug\netcoreapp2.0\Exercise_ChangeElement.deps.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_ChangeElement\bin\Debug\netcoreapp2.0\Exercise_ChangeElement.runtimeconfig.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_ChangeElement\bin\Debug\netcoreapp2.0\Exercise_ChangeElement.runtimeconfig.dev.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_ChangeElement\bin\Debug\netcoreapp2.0\Exercise_ChangeElement.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_ChangeElement\bin\Debug\netcoreapp2.0\Exercise_ChangeElement.pdb
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_ChangeElement\obj\Debug\netcoreapp2.0\Exercise_ChangeElement.csprojResolveAssemblyReference.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_ChangeElement\obj\Debug\netcoreapp2.0\Exercise_ChangeElement.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_ChangeElement\obj\Debug\netcoreapp2.0\Exercise_ChangeElement.AssemblyInfoInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_ChangeElement\obj\Debug\netcoreapp2.0\Exercise_ChangeElement.AssemblyInfo.cs
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_ChangeElement\obj\Debug\netcoreapp2.0\Exercise_ChangeElement.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_ChangeElement\obj\Debug\netcoreapp2.0\Exercise_ChangeElement.pdb
