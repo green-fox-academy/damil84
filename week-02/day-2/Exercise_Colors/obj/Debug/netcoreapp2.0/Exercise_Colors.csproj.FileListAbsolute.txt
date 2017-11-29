@@ -1,0 +1,11 @@
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Colors\bin\Debug\netcoreapp2.0\Exercise_Colors.deps.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Colors\bin\Debug\netcoreapp2.0\Exercise_Colors.runtimeconfig.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Colors\bin\Debug\netcoreapp2.0\Exercise_Colors.runtimeconfig.dev.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Colors\bin\Debug\netcoreapp2.0\Exercise_Colors.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Colors\bin\Debug\netcoreapp2.0\Exercise_Colors.pdb
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Colors\obj\Debug\netcoreapp2.0\Exercise_Colors.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Colors\obj\Debug\netcoreapp2.0\Exercise_Colors.AssemblyInfoInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Colors\obj\Debug\netcoreapp2.0\Exercise_Colors.AssemblyInfo.cs
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Colors\obj\Debug\netcoreapp2.0\Exercise_Colors.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Colors\obj\Debug\netcoreapp2.0\Exercise_Colors.pdb
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Colors\obj\Debug\netcoreapp2.0\Exercise_Colors.csprojResolveAssemblyReference.cache
