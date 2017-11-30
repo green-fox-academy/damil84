@@ -13,25 +13,20 @@ namespace Exercise_DiagonalMatrix
                 { 0, 0, 1, 0},
                 { 0, 0, 0, 1},
             };
-            Diagonal(array);
-            Console.ReadLine();        
-        }
 
-
-        static void Diagonal(int[,] a)
-        {
-            for (int i = 0; i < a.GetLength(0); i++)
+            for (int i = 0; i < array.GetLength(0); i++)
             {
-                for (int k = 0; k < a.GetLength(1); k++)
+                for (int k = 0; k < array.GetLength(1); k++)
                 {
-                    Console.Write(a[i, k]);
+                    Console.Write(array[i, k]);
                 }
                 Console.WriteLine();
 
 
             }
-
-
+            Console.ReadLine();        
         }
+
+
     }
 }
