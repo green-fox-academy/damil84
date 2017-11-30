@@ -8,19 +8,18 @@ namespace Exercise_Factorio
         {
             Console.WriteLine("Please give me the number of your choosing: ");
             int number = Convert.ToInt32(Console.ReadLine());
-            Factorio(number);
+            Console.WriteLine("The factorial of your given number is: " + Factorio(number));
             Console.ReadLine();
 
-
         }
-        static void Factorio(int number)
+        static int Factorio(int number)
         {
-            int f = number;
-            for (int i = 1; i< number; i++)
+            int f = 1;
+            for (int i = 1; i <= number; i++)
             {
                 f = f * i;
             }
-            Console.WriteLine("The factorial of your given number is: " + f );
+            return f;
         }
     }
 }

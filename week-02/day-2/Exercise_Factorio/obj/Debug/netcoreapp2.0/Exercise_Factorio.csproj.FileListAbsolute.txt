@@ -8,3 +8,4 @@ C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Factorio\obj\Debug\netcore
 C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Factorio\obj\Debug\netcoreapp2.0\Exercise_Factorio.AssemblyInfo.cs
 C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Factorio\obj\Debug\netcoreapp2.0\Exercise_Factorio.dll
 C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Factorio\obj\Debug\netcoreapp2.0\Exercise_Factorio.pdb
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_Factorio\obj\Debug\netcoreapp2.0\Exercise_Factorio.csprojResolveAssemblyReference.cache
