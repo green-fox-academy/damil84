@@ -8,3 +8,4 @@ C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise13\obj\Debug\netcoreapp2.0\
 C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise13\obj\Debug\netcoreapp2.0\exercise13.AssemblyInfo.cs
 C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise13\obj\Debug\netcoreapp2.0\exercise13.dll
 C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise13\obj\Debug\netcoreapp2.0\exercise13.pdb
+C:\Users\Nuts\greenfox\damil84\week-02\day-1\exercise13\obj\Debug\netcoreapp2.0\exercise13.csprojResolveAssemblyReference.cache

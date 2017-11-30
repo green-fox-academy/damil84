@@ -38,9 +38,11 @@ namespace exercise11
             g = (2 * g2 > g1);
             Console.WriteLine(g);
             
-            //int h = 1357988018575474;
-            //bool hhh = true;
-            //hhh = (h / 11);
+            int h = 1357988018575474;
+            hhh = (h / 11);
+
+            bool hhh = true;
+
             // tell if it has 11 as a divisor (print as a boolean)
 
             int i1 = 10;
