@@ -1,0 +1,11 @@
+C:\Users\Nuts\greenfox\damil84\week-02\day-5\Exercise_GuessGame\bin\Debug\netcoreapp2.0\Exercise_GuessGame.deps.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-5\Exercise_GuessGame\bin\Debug\netcoreapp2.0\Exercise_GuessGame.runtimeconfig.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-5\Exercise_GuessGame\bin\Debug\netcoreapp2.0\Exercise_GuessGame.runtimeconfig.dev.json
+C:\Users\Nuts\greenfox\damil84\week-02\day-5\Exercise_GuessGame\bin\Debug\netcoreapp2.0\Exercise_GuessGame.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-5\Exercise_GuessGame\bin\Debug\netcoreapp2.0\Exercise_GuessGame.pdb
+C:\Users\Nuts\greenfox\damil84\week-02\day-5\Exercise_GuessGame\obj\Debug\netcoreapp2.0\Exercise_GuessGame.csprojResolveAssemblyReference.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-5\Exercise_GuessGame\obj\Debug\netcoreapp2.0\Exercise_GuessGame.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-5\Exercise_GuessGame\obj\Debug\netcoreapp2.0\Exercise_GuessGame.AssemblyInfoInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-02\day-5\Exercise_GuessGame\obj\Debug\netcoreapp2.0\Exercise_GuessGame.AssemblyInfo.cs
+C:\Users\Nuts\greenfox\damil84\week-02\day-5\Exercise_GuessGame\obj\Debug\netcoreapp2.0\Exercise_GuessGame.dll
+C:\Users\Nuts\greenfox\damil84\week-02\day-5\Exercise_GuessGame\obj\Debug\netcoreapp2.0\Exercise_GuessGame.pdb
