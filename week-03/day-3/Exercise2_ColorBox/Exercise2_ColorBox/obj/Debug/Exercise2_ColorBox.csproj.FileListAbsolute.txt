@@ -1,0 +1,16 @@
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise2_ColorBox\Exercise2_ColorBox\obj\Debug\Exercise2_ColorBox.csprojResolveAssemblyReference.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise2_ColorBox\Exercise2_ColorBox\obj\Debug\MainWindow.g.cs
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise2_ColorBox\Exercise2_ColorBox\obj\Debug\App.g.cs
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise2_ColorBox\Exercise2_ColorBox\obj\Debug\Exercise2_ColorBox_MarkupCompile.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise2_ColorBox\Exercise2_ColorBox\obj\Debug\Exercise2_ColorBox_MarkupCompile.lref
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise2_ColorBox\Exercise2_ColorBox\bin\Debug\FoxDraw.cs
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise2_ColorBox\Exercise2_ColorBox\bin\Debug\Exercise2_ColorBox.exe.config
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise2_ColorBox\Exercise2_ColorBox\bin\Debug\Exercise2_ColorBox.exe
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise2_ColorBox\Exercise2_ColorBox\bin\Debug\Exercise2_ColorBox.pdb
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise2_ColorBox\Exercise2_ColorBox\obj\Debug\MainWindow.baml
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise2_ColorBox\Exercise2_ColorBox\obj\Debug\Exercise2_ColorBox.g.resources
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise2_ColorBox\Exercise2_ColorBox\obj\Debug\Exercise2_ColorBox.Properties.Resources.resources
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise2_ColorBox\Exercise2_ColorBox\obj\Debug\Exercise2_ColorBox.csproj.GenerateResource.Cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise2_ColorBox\Exercise2_ColorBox\obj\Debug\Exercise2_ColorBox.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise2_ColorBox\Exercise2_ColorBox\obj\Debug\Exercise2_ColorBox.exe
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise2_ColorBox\Exercise2_ColorBox\obj\Debug\Exercise2_ColorBox.pdb

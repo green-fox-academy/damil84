@@ -1,0 +1,16 @@
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise3_Diagonals\Exercise3_Diagonals\bin\Debug\Exercise3_Diagonals.exe.config
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise3_Diagonals\Exercise3_Diagonals\bin\Debug\Exercise3_Diagonals.exe
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise3_Diagonals\Exercise3_Diagonals\bin\Debug\Exercise3_Diagonals.pdb
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise3_Diagonals\Exercise3_Diagonals\obj\Debug\Exercise3_Diagonals.csprojResolveAssemblyReference.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise3_Diagonals\Exercise3_Diagonals\obj\Debug\MainWindow.g.cs
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise3_Diagonals\Exercise3_Diagonals\obj\Debug\App.g.cs
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise3_Diagonals\Exercise3_Diagonals\obj\Debug\Exercise3_Diagonals_MarkupCompile.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise3_Diagonals\Exercise3_Diagonals\obj\Debug\Exercise3_Diagonals_MarkupCompile.lref
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise3_Diagonals\Exercise3_Diagonals\obj\Debug\MainWindow.baml
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise3_Diagonals\Exercise3_Diagonals\obj\Debug\Exercise3_Diagonals.g.resources
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise3_Diagonals\Exercise3_Diagonals\obj\Debug\Exercise3_Diagonals.Properties.Resources.resources
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise3_Diagonals\Exercise3_Diagonals\obj\Debug\Exercise3_Diagonals.csproj.GenerateResource.Cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise3_Diagonals\Exercise3_Diagonals\obj\Debug\Exercise3_Diagonals.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise3_Diagonals\Exercise3_Diagonals\obj\Debug\Exercise3_Diagonals.exe
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise3_Diagonals\Exercise3_Diagonals\obj\Debug\Exercise3_Diagonals.pdb
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise3_Diagonals\Exercise3_Diagonals\bin\Debug\Foxdraw.cs
