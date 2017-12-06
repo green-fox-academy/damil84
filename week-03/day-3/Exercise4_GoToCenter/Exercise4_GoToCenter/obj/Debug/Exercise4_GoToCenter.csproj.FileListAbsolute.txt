@@ -1,0 +1,16 @@
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise4_GoToCenter\Exercise4_GoToCenter\bin\Debug\Foxdraw.cs
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise4_GoToCenter\Exercise4_GoToCenter\bin\Debug\Exercise4_GoToCenter.exe.config
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise4_GoToCenter\Exercise4_GoToCenter\bin\Debug\Exercise4_GoToCenter.exe
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise4_GoToCenter\Exercise4_GoToCenter\bin\Debug\Exercise4_GoToCenter.pdb
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise4_GoToCenter\Exercise4_GoToCenter\obj\Debug\Exercise4_GoToCenter.csprojResolveAssemblyReference.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise4_GoToCenter\Exercise4_GoToCenter\obj\Debug\MainWindow.g.cs
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise4_GoToCenter\Exercise4_GoToCenter\obj\Debug\App.g.cs
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise4_GoToCenter\Exercise4_GoToCenter\obj\Debug\Exercise4_GoToCenter_MarkupCompile.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise4_GoToCenter\Exercise4_GoToCenter\obj\Debug\Exercise4_GoToCenter_MarkupCompile.lref
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise4_GoToCenter\Exercise4_GoToCenter\obj\Debug\MainWindow.baml
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise4_GoToCenter\Exercise4_GoToCenter\obj\Debug\Exercise4_GoToCenter.g.resources
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise4_GoToCenter\Exercise4_GoToCenter\obj\Debug\Exercise4_GoToCenter.Properties.Resources.resources
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise4_GoToCenter\Exercise4_GoToCenter\obj\Debug\Exercise4_GoToCenter.csproj.GenerateResource.Cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise4_GoToCenter\Exercise4_GoToCenter\obj\Debug\Exercise4_GoToCenter.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise4_GoToCenter\Exercise4_GoToCenter\obj\Debug\Exercise4_GoToCenter.exe
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise4_GoToCenter\Exercise4_GoToCenter\obj\Debug\Exercise4_GoToCenter.pdb
