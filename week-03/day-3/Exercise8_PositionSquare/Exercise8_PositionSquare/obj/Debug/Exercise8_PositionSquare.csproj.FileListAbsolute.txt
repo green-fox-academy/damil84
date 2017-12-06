@@ -1,0 +1,16 @@
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise8_PositionSquare\Exercise8_PositionSquare\bin\Debug\Foxdraw.cs
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise8_PositionSquare\Exercise8_PositionSquare\bin\Debug\Exercise8_PositionSquare.exe.config
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise8_PositionSquare\Exercise8_PositionSquare\bin\Debug\Exercise8_PositionSquare.exe
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise8_PositionSquare\Exercise8_PositionSquare\bin\Debug\Exercise8_PositionSquare.pdb
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise8_PositionSquare\Exercise8_PositionSquare\obj\Debug\Exercise8_PositionSquare.csprojResolveAssemblyReference.cache
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise8_PositionSquare\Exercise8_PositionSquare\obj\Debug\MainWindow.g.cs
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise8_PositionSquare\Exercise8_PositionSquare\obj\Debug\App.g.cs
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise8_PositionSquare\Exercise8_PositionSquare\obj\Debug\Exercise8_PositionSquare_MarkupCompile.cache
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise8_PositionSquare\Exercise8_PositionSquare\obj\Debug\Exercise8_PositionSquare_MarkupCompile.lref
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise8_PositionSquare\Exercise8_PositionSquare\obj\Debug\MainWindow.baml
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise8_PositionSquare\Exercise8_PositionSquare\obj\Debug\Exercise8_PositionSquare.g.resources
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise8_PositionSquare\Exercise8_PositionSquare\obj\Debug\Exercise8_PositionSquare.Properties.Resources.resources
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise8_PositionSquare\Exercise8_PositionSquare\obj\Debug\Exercise8_PositionSquare.csproj.GenerateResource.Cache
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise8_PositionSquare\Exercise8_PositionSquare\obj\Debug\Exercise8_PositionSquare.csproj.CoreCompileInputs.cache
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise8_PositionSquare\Exercise8_PositionSquare\obj\Debug\Exercise8_PositionSquare.exe
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise8_PositionSquare\Exercise8_PositionSquare\obj\Debug\Exercise8_PositionSquare.pdb
