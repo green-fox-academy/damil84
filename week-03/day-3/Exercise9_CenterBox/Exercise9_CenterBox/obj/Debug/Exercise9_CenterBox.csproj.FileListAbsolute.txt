@@ -1,0 +1,16 @@
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise9_CenterBox\Exercise9_CenterBox\bin\Debug\Exercise9_CenterBox.exe.config
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise9_CenterBox\Exercise9_CenterBox\bin\Debug\Exercise9_CenterBox.exe
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise9_CenterBox\Exercise9_CenterBox\bin\Debug\Exercise9_CenterBox.pdb
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise9_CenterBox\Exercise9_CenterBox\obj\Debug\Exercise9_CenterBox.csprojResolveAssemblyReference.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise9_CenterBox\Exercise9_CenterBox\obj\Debug\MainWindow.g.cs
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise9_CenterBox\Exercise9_CenterBox\obj\Debug\App.g.cs
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise9_CenterBox\Exercise9_CenterBox\obj\Debug\Exercise9_CenterBox_MarkupCompile.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise9_CenterBox\Exercise9_CenterBox\obj\Debug\Exercise9_CenterBox_MarkupCompile.lref
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise9_CenterBox\Exercise9_CenterBox\obj\Debug\MainWindow.baml
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise9_CenterBox\Exercise9_CenterBox\obj\Debug\Exercise9_CenterBox.g.resources
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise9_CenterBox\Exercise9_CenterBox\obj\Debug\Exercise9_CenterBox.Properties.Resources.resources
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise9_CenterBox\Exercise9_CenterBox\obj\Debug\Exercise9_CenterBox.csproj.GenerateResource.Cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise9_CenterBox\Exercise9_CenterBox\obj\Debug\Exercise9_CenterBox.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise9_CenterBox\Exercise9_CenterBox\obj\Debug\Exercise9_CenterBox.exe
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise9_CenterBox\Exercise9_CenterBox\obj\Debug\Exercise9_CenterBox.pdb
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise9_CenterBox\Exercise9_CenterBox\bin\Debug\Foxdraw.cs
