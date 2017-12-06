@@ -1,0 +1,16 @@
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise5_Horizontal\Exercise5_Horizontal\bin\Debug\Foxdraw.cs
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise5_Horizontal\Exercise5_Horizontal\bin\Debug\Exercise5_Horizontal.exe.config
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise5_Horizontal\Exercise5_Horizontal\bin\Debug\Exercise5_Horizontal.exe
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise5_Horizontal\Exercise5_Horizontal\bin\Debug\Exercise5_Horizontal.pdb
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise5_Horizontal\Exercise5_Horizontal\obj\Debug\Exercise5_Horizontal.csprojResolveAssemblyReference.cache
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise5_Horizontal\Exercise5_Horizontal\obj\Debug\MainWindow.g.cs
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise5_Horizontal\Exercise5_Horizontal\obj\Debug\App.g.cs
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise5_Horizontal\Exercise5_Horizontal\obj\Debug\Exercise5_Horizontal_MarkupCompile.cache
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise5_Horizontal\Exercise5_Horizontal\obj\Debug\Exercise5_Horizontal_MarkupCompile.lref
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise5_Horizontal\Exercise5_Horizontal\obj\Debug\MainWindow.baml
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise5_Horizontal\Exercise5_Horizontal\obj\Debug\Exercise5_Horizontal.g.resources
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise5_Horizontal\Exercise5_Horizontal\obj\Debug\Exercise5_Horizontal.Properties.Resources.resources
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise5_Horizontal\Exercise5_Horizontal\obj\Debug\Exercise5_Horizontal.csproj.GenerateResource.Cache
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise5_Horizontal\Exercise5_Horizontal\obj\Debug\Exercise5_Horizontal.csproj.CoreCompileInputs.cache
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise5_Horizontal\Exercise5_Horizontal\obj\Debug\Exercise5_Horizontal.exe
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise5_Horizontal\Exercise5_Horizontal\obj\Debug\Exercise5_Horizontal.pdb

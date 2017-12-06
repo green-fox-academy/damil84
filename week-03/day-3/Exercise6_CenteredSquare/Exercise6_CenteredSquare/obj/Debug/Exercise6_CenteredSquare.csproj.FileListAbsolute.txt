@@ -1,0 +1,16 @@
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise6_CenteredSquare\Exercise6_CenteredSquare\bin\Debug\Exercise6_CenteredSquare.exe.config
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise6_CenteredSquare\Exercise6_CenteredSquare\bin\Debug\Exercise6_CenteredSquare.exe
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise6_CenteredSquare\Exercise6_CenteredSquare\bin\Debug\Exercise6_CenteredSquare.pdb
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise6_CenteredSquare\Exercise6_CenteredSquare\obj\Debug\Exercise6_CenteredSquare.csprojResolveAssemblyReference.cache
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise6_CenteredSquare\Exercise6_CenteredSquare\obj\Debug\MainWindow.g.cs
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise6_CenteredSquare\Exercise6_CenteredSquare\obj\Debug\App.g.cs
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise6_CenteredSquare\Exercise6_CenteredSquare\obj\Debug\Exercise6_CenteredSquare_MarkupCompile.cache
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise6_CenteredSquare\Exercise6_CenteredSquare\obj\Debug\Exercise6_CenteredSquare_MarkupCompile.lref
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise6_CenteredSquare\Exercise6_CenteredSquare\obj\Debug\MainWindow.baml
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise6_CenteredSquare\Exercise6_CenteredSquare\obj\Debug\Exercise6_CenteredSquare.g.resources
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise6_CenteredSquare\Exercise6_CenteredSquare\obj\Debug\Exercise6_CenteredSquare.Properties.Resources.resources
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise6_CenteredSquare\Exercise6_CenteredSquare\obj\Debug\Exercise6_CenteredSquare.csproj.GenerateResource.Cache
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise6_CenteredSquare\Exercise6_CenteredSquare\obj\Debug\Exercise6_CenteredSquare.csproj.CoreCompileInputs.cache
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise6_CenteredSquare\Exercise6_CenteredSquare\obj\Debug\Exercise6_CenteredSquare.exe
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise6_CenteredSquare\Exercise6_CenteredSquare\obj\Debug\Exercise6_CenteredSquare.pdb
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise6_CenteredSquare\Exercise6_CenteredSquare\bin\Debug\Foxdraw.cs

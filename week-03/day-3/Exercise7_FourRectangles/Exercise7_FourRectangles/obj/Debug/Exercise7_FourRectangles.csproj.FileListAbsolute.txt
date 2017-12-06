@@ -1,0 +1,15 @@
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise7_FourRectangles\Exercise7_FourRectangles\bin\Debug\Exercise7_FourRectangles.exe.config
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise7_FourRectangles\Exercise7_FourRectangles\bin\Debug\Exercise7_FourRectangles.exe
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise7_FourRectangles\Exercise7_FourRectangles\bin\Debug\Exercise7_FourRectangles.pdb
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise7_FourRectangles\Exercise7_FourRectangles\obj\Debug\Exercise7_FourRectangles.csprojResolveAssemblyReference.cache
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise7_FourRectangles\Exercise7_FourRectangles\obj\Debug\MainWindow.g.cs
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise7_FourRectangles\Exercise7_FourRectangles\obj\Debug\App.g.cs
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise7_FourRectangles\Exercise7_FourRectangles\obj\Debug\Exercise7_FourRectangles_MarkupCompile.cache
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise7_FourRectangles\Exercise7_FourRectangles\obj\Debug\Exercise7_FourRectangles_MarkupCompile.lref
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise7_FourRectangles\Exercise7_FourRectangles\obj\Debug\MainWindow.baml
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise7_FourRectangles\Exercise7_FourRectangles\obj\Debug\Exercise7_FourRectangles.g.resources
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise7_FourRectangles\Exercise7_FourRectangles\obj\Debug\Exercise7_FourRectangles.Properties.Resources.resources
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise7_FourRectangles\Exercise7_FourRectangles\obj\Debug\Exercise7_FourRectangles.csproj.GenerateResource.Cache
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise7_FourRectangles\Exercise7_FourRectangles\obj\Debug\Exercise7_FourRectangles.csproj.CoreCompileInputs.cache
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise7_FourRectangles\Exercise7_FourRectangles\obj\Debug\Exercise7_FourRectangles.exe
+c:\users\nuts\documents\visual studio 2017\Projects\Exercise7_FourRectangles\Exercise7_FourRectangles\obj\Debug\Exercise7_FourRectangles.pdb
