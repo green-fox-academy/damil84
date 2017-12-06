@@ -1,0 +1,16 @@
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise1_LineInTheMiddle\Exercise1_LineInTheMiddle\obj\Debug\Exercise1_LineInTheMiddle.csprojResolveAssemblyReference.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise1_LineInTheMiddle\Exercise1_LineInTheMiddle\obj\Debug\MainWindow.g.cs
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise1_LineInTheMiddle\Exercise1_LineInTheMiddle\obj\Debug\App.g.cs
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise1_LineInTheMiddle\Exercise1_LineInTheMiddle\obj\Debug\Exercise1_LineInTheMiddle_MarkupCompile.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise1_LineInTheMiddle\Exercise1_LineInTheMiddle\obj\Debug\Exercise1_LineInTheMiddle_MarkupCompile.lref
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise1_LineInTheMiddle\Exercise1_LineInTheMiddle\bin\Debug\FoxDraw.cs
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise1_LineInTheMiddle\Exercise1_LineInTheMiddle\bin\Debug\Exercise1_LineInTheMiddle.exe.config
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise1_LineInTheMiddle\Exercise1_LineInTheMiddle\bin\Debug\Exercise1_LineInTheMiddle.exe
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise1_LineInTheMiddle\Exercise1_LineInTheMiddle\bin\Debug\Exercise1_LineInTheMiddle.pdb
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise1_LineInTheMiddle\Exercise1_LineInTheMiddle\obj\Debug\MainWindow.baml
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise1_LineInTheMiddle\Exercise1_LineInTheMiddle\obj\Debug\Exercise1_LineInTheMiddle.g.resources
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise1_LineInTheMiddle\Exercise1_LineInTheMiddle\obj\Debug\Exercise1_LineInTheMiddle.Properties.Resources.resources
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise1_LineInTheMiddle\Exercise1_LineInTheMiddle\obj\Debug\Exercise1_LineInTheMiddle.csproj.GenerateResource.Cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise1_LineInTheMiddle\Exercise1_LineInTheMiddle\obj\Debug\Exercise1_LineInTheMiddle.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise1_LineInTheMiddle\Exercise1_LineInTheMiddle\obj\Debug\Exercise1_LineInTheMiddle.exe
+C:\Users\Nuts\greenfox\damil84\week-03\day-3\Exercise1_LineInTheMiddle\Exercise1_LineInTheMiddle\obj\Debug\Exercise1_LineInTheMiddle.pdb

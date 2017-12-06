@@ -36,14 +36,14 @@ namespace guessNumber
                 else
                 {
                     lives--;
-                    if (guess < randomNumber)
+                    if (guess < randomNumber && lives > 1)
                     {
                         Console.WriteLine("Your guess is to low, try again. You have {0} lives left", lives);
                         Console.Write("\nPlease enter your guess >> ");
                         guess = Convert.ToInt32(Console.ReadLine());
                     }
 
-                    else
+                    else if (guess > randomNumber && lives > 1)
                     {
                         Console.WriteLine("Your guess is to high, try again. You have {0} lives left", lives);
                         Console.Write("\nPlease enter your guess >> ");
