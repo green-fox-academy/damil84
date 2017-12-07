@@ -1,0 +1,11 @@
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise6_BunniesAgain\obj\Debug\netcoreapp2.0\Exercise6_BunniesAgain.csprojResolveAssemblyReference.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise6_BunniesAgain\obj\Debug\netcoreapp2.0\Exercise6_BunniesAgain.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise6_BunniesAgain\obj\Debug\netcoreapp2.0\Exercise6_BunniesAgain.AssemblyInfoInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise6_BunniesAgain\obj\Debug\netcoreapp2.0\Exercise6_BunniesAgain.AssemblyInfo.cs
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise6_BunniesAgain\bin\Debug\netcoreapp2.0\Exercise6_BunniesAgain.deps.json
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise6_BunniesAgain\bin\Debug\netcoreapp2.0\Exercise6_BunniesAgain.runtimeconfig.json
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise6_BunniesAgain\bin\Debug\netcoreapp2.0\Exercise6_BunniesAgain.runtimeconfig.dev.json
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise6_BunniesAgain\bin\Debug\netcoreapp2.0\Exercise6_BunniesAgain.dll
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise6_BunniesAgain\bin\Debug\netcoreapp2.0\Exercise6_BunniesAgain.pdb
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise6_BunniesAgain\obj\Debug\netcoreapp2.0\Exercise6_BunniesAgain.dll
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise6_BunniesAgain\obj\Debug\netcoreapp2.0\Exercise6_BunniesAgain.pdb
