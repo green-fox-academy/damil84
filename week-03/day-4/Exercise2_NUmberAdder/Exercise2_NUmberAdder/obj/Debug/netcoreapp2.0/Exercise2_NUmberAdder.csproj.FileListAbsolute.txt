@@ -1,0 +1,11 @@
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise2_NUmberAdder\Exercise2_NUmberAdder\bin\Debug\netcoreapp2.0\Exercise2_NUmberAdder.deps.json
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise2_NUmberAdder\Exercise2_NUmberAdder\bin\Debug\netcoreapp2.0\Exercise2_NUmberAdder.runtimeconfig.json
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise2_NUmberAdder\Exercise2_NUmberAdder\bin\Debug\netcoreapp2.0\Exercise2_NUmberAdder.runtimeconfig.dev.json
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise2_NUmberAdder\Exercise2_NUmberAdder\bin\Debug\netcoreapp2.0\Exercise2_NUmberAdder.dll
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise2_NUmberAdder\Exercise2_NUmberAdder\bin\Debug\netcoreapp2.0\Exercise2_NUmberAdder.pdb
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise2_NUmberAdder\Exercise2_NUmberAdder\obj\Debug\netcoreapp2.0\Exercise2_NUmberAdder.csprojResolveAssemblyReference.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise2_NUmberAdder\Exercise2_NUmberAdder\obj\Debug\netcoreapp2.0\Exercise2_NUmberAdder.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise2_NUmberAdder\Exercise2_NUmberAdder\obj\Debug\netcoreapp2.0\Exercise2_NUmberAdder.AssemblyInfoInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise2_NUmberAdder\Exercise2_NUmberAdder\obj\Debug\netcoreapp2.0\Exercise2_NUmberAdder.AssemblyInfo.cs
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise2_NUmberAdder\Exercise2_NUmberAdder\obj\Debug\netcoreapp2.0\Exercise2_NUmberAdder.dll
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise2_NUmberAdder\Exercise2_NUmberAdder\obj\Debug\netcoreapp2.0\Exercise2_NUmberAdder.pdb
