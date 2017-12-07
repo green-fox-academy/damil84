@@ -1,0 +1,11 @@
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise4_Power\bin\Debug\netcoreapp2.0\Exercise4_Power.deps.json
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise4_Power\bin\Debug\netcoreapp2.0\Exercise4_Power.runtimeconfig.json
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise4_Power\bin\Debug\netcoreapp2.0\Exercise4_Power.runtimeconfig.dev.json
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise4_Power\bin\Debug\netcoreapp2.0\Exercise4_Power.dll
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise4_Power\bin\Debug\netcoreapp2.0\Exercise4_Power.pdb
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise4_Power\obj\Debug\netcoreapp2.0\Exercise4_Power.csprojResolveAssemblyReference.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise4_Power\obj\Debug\netcoreapp2.0\Exercise4_Power.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise4_Power\obj\Debug\netcoreapp2.0\Exercise4_Power.AssemblyInfoInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise4_Power\obj\Debug\netcoreapp2.0\Exercise4_Power.AssemblyInfo.cs
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise4_Power\obj\Debug\netcoreapp2.0\Exercise4_Power.dll
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise4_Power\obj\Debug\netcoreapp2.0\Exercise4_Power.pdb
