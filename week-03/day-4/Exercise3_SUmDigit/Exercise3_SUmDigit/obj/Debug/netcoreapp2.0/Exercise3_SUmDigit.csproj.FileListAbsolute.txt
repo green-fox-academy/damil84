@@ -1,0 +1,11 @@
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise3_SUmDigit\Exercise3_SUmDigit\bin\Debug\netcoreapp2.0\Exercise3_SUmDigit.deps.json
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise3_SUmDigit\Exercise3_SUmDigit\bin\Debug\netcoreapp2.0\Exercise3_SUmDigit.runtimeconfig.json
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise3_SUmDigit\Exercise3_SUmDigit\bin\Debug\netcoreapp2.0\Exercise3_SUmDigit.runtimeconfig.dev.json
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise3_SUmDigit\Exercise3_SUmDigit\bin\Debug\netcoreapp2.0\Exercise3_SUmDigit.dll
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise3_SUmDigit\Exercise3_SUmDigit\bin\Debug\netcoreapp2.0\Exercise3_SUmDigit.pdb
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise3_SUmDigit\Exercise3_SUmDigit\obj\Debug\netcoreapp2.0\Exercise3_SUmDigit.csprojResolveAssemblyReference.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise3_SUmDigit\Exercise3_SUmDigit\obj\Debug\netcoreapp2.0\Exercise3_SUmDigit.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise3_SUmDigit\Exercise3_SUmDigit\obj\Debug\netcoreapp2.0\Exercise3_SUmDigit.AssemblyInfoInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise3_SUmDigit\Exercise3_SUmDigit\obj\Debug\netcoreapp2.0\Exercise3_SUmDigit.AssemblyInfo.cs
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise3_SUmDigit\Exercise3_SUmDigit\obj\Debug\netcoreapp2.0\Exercise3_SUmDigit.dll
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise3_SUmDigit\Exercise3_SUmDigit\obj\Debug\netcoreapp2.0\Exercise3_SUmDigit.pdb
