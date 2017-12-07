@@ -1,0 +1,11 @@
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise1_Counter\Exercise1_Counter\bin\Debug\netcoreapp2.0\Exercise1_Counter.deps.json
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise1_Counter\Exercise1_Counter\bin\Debug\netcoreapp2.0\Exercise1_Counter.runtimeconfig.json
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise1_Counter\Exercise1_Counter\bin\Debug\netcoreapp2.0\Exercise1_Counter.runtimeconfig.dev.json
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise1_Counter\Exercise1_Counter\bin\Debug\netcoreapp2.0\Exercise1_Counter.dll
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise1_Counter\Exercise1_Counter\bin\Debug\netcoreapp2.0\Exercise1_Counter.pdb
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise1_Counter\Exercise1_Counter\obj\Debug\netcoreapp2.0\Exercise1_Counter.csprojResolveAssemblyReference.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise1_Counter\Exercise1_Counter\obj\Debug\netcoreapp2.0\Exercise1_Counter.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise1_Counter\Exercise1_Counter\obj\Debug\netcoreapp2.0\Exercise1_Counter.AssemblyInfoInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise1_Counter\Exercise1_Counter\obj\Debug\netcoreapp2.0\Exercise1_Counter.AssemblyInfo.cs
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise1_Counter\Exercise1_Counter\obj\Debug\netcoreapp2.0\Exercise1_Counter.dll
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise1_Counter\Exercise1_Counter\obj\Debug\netcoreapp2.0\Exercise1_Counter.pdb
