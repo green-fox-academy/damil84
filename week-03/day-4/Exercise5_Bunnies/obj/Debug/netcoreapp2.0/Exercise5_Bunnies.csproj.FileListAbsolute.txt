@@ -1,0 +1,11 @@
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise5_Bunnies\bin\Debug\netcoreapp2.0\Exercise5_Bunnies.deps.json
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise5_Bunnies\bin\Debug\netcoreapp2.0\Exercise5_Bunnies.runtimeconfig.json
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise5_Bunnies\bin\Debug\netcoreapp2.0\Exercise5_Bunnies.runtimeconfig.dev.json
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise5_Bunnies\bin\Debug\netcoreapp2.0\Exercise5_Bunnies.dll
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise5_Bunnies\bin\Debug\netcoreapp2.0\Exercise5_Bunnies.pdb
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise5_Bunnies\obj\Debug\netcoreapp2.0\Exercise5_Bunnies.csprojResolveAssemblyReference.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise5_Bunnies\obj\Debug\netcoreapp2.0\Exercise5_Bunnies.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise5_Bunnies\obj\Debug\netcoreapp2.0\Exercise5_Bunnies.AssemblyInfoInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise5_Bunnies\obj\Debug\netcoreapp2.0\Exercise5_Bunnies.AssemblyInfo.cs
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise5_Bunnies\obj\Debug\netcoreapp2.0\Exercise5_Bunnies.dll
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise5_Bunnies\obj\Debug\netcoreapp2.0\Exercise5_Bunnies.pdb
