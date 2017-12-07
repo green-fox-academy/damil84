@@ -18,7 +18,6 @@ namespace Exercise5_Bunnies
                 return 0;
             }
             else
-                Console.WriteLine(number);
             {
                 return 2 + BunnyEarCounter(number - 1);
             }
