@@ -1,0 +1,16 @@
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise12\Exercise12\bin\Debug\Foxdraw.cs
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise12\Exercise12\bin\Debug\Exercise12.exe.config
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise12\Exercise12\bin\Debug\Exercise12.exe
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise12\Exercise12\bin\Debug\Exercise12.pdb
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise12\Exercise12\obj\Debug\Exercise12.csprojResolveAssemblyReference.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise12\Exercise12\obj\Debug\MainWindow.g.cs
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise12\Exercise12\obj\Debug\App.g.cs
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise12\Exercise12\obj\Debug\Exercise12_MarkupCompile.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise12\Exercise12\obj\Debug\Exercise12_MarkupCompile.lref
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise12\Exercise12\obj\Debug\MainWindow.baml
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise12\Exercise12\obj\Debug\Exercise12.g.resources
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise12\Exercise12\obj\Debug\Exercise12.Properties.Resources.resources
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise12\Exercise12\obj\Debug\Exercise12.csproj.GenerateResource.Cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise12\Exercise12\obj\Debug\Exercise12.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise12\Exercise12\obj\Debug\Exercise12.exe
+C:\Users\Nuts\greenfox\damil84\week-03\day-4\Exercise12\Exercise12\obj\Debug\Exercise12.pdb
