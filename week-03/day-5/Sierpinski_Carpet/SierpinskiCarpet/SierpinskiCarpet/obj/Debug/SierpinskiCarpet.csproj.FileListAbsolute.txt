@@ -1,0 +1,16 @@
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Sierpinski_Carpet\SierpinskiCarpet\SierpinskiCarpet\obj\Debug\SierpinskiCarpet.csprojResolveAssemblyReference.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Sierpinski_Carpet\SierpinskiCarpet\SierpinskiCarpet\obj\Debug\MainWindow.g.cs
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Sierpinski_Carpet\SierpinskiCarpet\SierpinskiCarpet\obj\Debug\App.g.cs
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Sierpinski_Carpet\SierpinskiCarpet\SierpinskiCarpet\obj\Debug\SierpinskiCarpet_MarkupCompile.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Sierpinski_Carpet\SierpinskiCarpet\SierpinskiCarpet\obj\Debug\SierpinskiCarpet_MarkupCompile.lref
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Sierpinski_Carpet\SierpinskiCarpet\SierpinskiCarpet\bin\Debug\Foxdraw.cs
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Sierpinski_Carpet\SierpinskiCarpet\SierpinskiCarpet\bin\Debug\SierpinskiCarpet.exe.config
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Sierpinski_Carpet\SierpinskiCarpet\SierpinskiCarpet\bin\Debug\SierpinskiCarpet.exe
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Sierpinski_Carpet\SierpinskiCarpet\SierpinskiCarpet\bin\Debug\SierpinskiCarpet.pdb
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Sierpinski_Carpet\SierpinskiCarpet\SierpinskiCarpet\obj\Debug\MainWindow.baml
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Sierpinski_Carpet\SierpinskiCarpet\SierpinskiCarpet\obj\Debug\SierpinskiCarpet.g.resources
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Sierpinski_Carpet\SierpinskiCarpet\SierpinskiCarpet\obj\Debug\SierpinskiCarpet.Properties.Resources.resources
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Sierpinski_Carpet\SierpinskiCarpet\SierpinskiCarpet\obj\Debug\SierpinskiCarpet.csproj.GenerateResource.Cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Sierpinski_Carpet\SierpinskiCarpet\SierpinskiCarpet\obj\Debug\SierpinskiCarpet.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Sierpinski_Carpet\SierpinskiCarpet\SierpinskiCarpet\obj\Debug\SierpinskiCarpet.exe
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Sierpinski_Carpet\SierpinskiCarpet\SierpinskiCarpet\obj\Debug\SierpinskiCarpet.pdb
