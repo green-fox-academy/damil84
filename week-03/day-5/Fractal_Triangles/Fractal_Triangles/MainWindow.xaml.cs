@@ -29,6 +29,8 @@ namespace Fractal_Triangles
         {
             if (levels > 0)
             {
+                foxDraw.FillColor(Colors.Black);
+                foxDraw.DrawRectangle(10, 10, 150, 50);
                 foxDraw.DrawLine(startingX, startingY, startingX + size, startingY);
                 foxDraw.DrawLine(startingX, startingY, startingX + (size / 2), startingY + (size / 2) * Math.Sqrt(3));
                 foxDraw.DrawLine(startingX + (size / 2), startingY + (size / 2) * Math.Sqrt(3), startingX + size, startingY);
