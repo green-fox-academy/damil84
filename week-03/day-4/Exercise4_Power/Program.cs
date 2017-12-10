@@ -4,10 +4,10 @@ namespace Exercise4_Power
 {
     class Program
     {
+        public static bool yesOrNo = true;
+
         static void Main(string[] args)
         {
-            
-            bool yesOrNo = true;
             do
             {
                 Console.WriteLine("Please give the base number of your choosing >>>");
@@ -21,16 +21,31 @@ namespace Exercise4_Power
                 Console.WriteLine("The result is: " + result);
                 Console.WriteLine();
                 Console.WriteLine();
-
-
                 Console.WriteLine("Would you like to do another calculation? y/n");
-
                 if (Console.ReadKey(true).KeyChar == 'n')
-                    { yesOrNo = false;
-                    break; }
-            }
-            while (yesOrNo);
+                {
+                    yesOrNo = false;
+                }
 
+                else if (Console.ReadKey(true).KeyChar == 'y')
+                {
+                    yesOrNo = true;
+                }
+                else
+                {
+                    do
+                    {
+                        Console.WriteLine("Please type only 'y' for yes or 'n' for no");
+                    }
+                    while (Console.ReadKey(true).KeyChar != 'n' && Console.ReadKey(true).KeyChar != 'y');
+                    if (Console.ReadKey(true).KeyChar == 'n')
+                    {
+                        yesOrNo = false;
+                    }
+
+                }
+            }
+            while (yesOrNo == true);
         }
 
         static public double Power(double inputBase, int inputPower)
@@ -42,8 +57,7 @@ namespace Exercise4_Power
             else
             {
                 return inputBase * Power(inputBase, inputPower - 1);
-
-            } 
+            }
         }
     }
 }

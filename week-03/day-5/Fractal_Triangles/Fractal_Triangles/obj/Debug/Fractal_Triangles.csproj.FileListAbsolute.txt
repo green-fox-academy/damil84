@@ -1,0 +1,16 @@
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Fractal_Triangles\Fractal_Triangles\bin\Debug\Foxdraw.cs
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Fractal_Triangles\Fractal_Triangles\bin\Debug\Fractal_Triangles.exe.config
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Fractal_Triangles\Fractal_Triangles\bin\Debug\Fractal_Triangles.exe
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Fractal_Triangles\Fractal_Triangles\bin\Debug\Fractal_Triangles.pdb
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Fractal_Triangles\Fractal_Triangles\obj\Debug\Fractal_Triangles.csprojResolveAssemblyReference.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Fractal_Triangles\Fractal_Triangles\obj\Debug\MainWindow.g.cs
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Fractal_Triangles\Fractal_Triangles\obj\Debug\App.g.cs
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Fractal_Triangles\Fractal_Triangles\obj\Debug\Fractal_Triangles_MarkupCompile.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Fractal_Triangles\Fractal_Triangles\obj\Debug\Fractal_Triangles_MarkupCompile.lref
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Fractal_Triangles\Fractal_Triangles\obj\Debug\MainWindow.baml
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Fractal_Triangles\Fractal_Triangles\obj\Debug\Fractal_Triangles.g.resources
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Fractal_Triangles\Fractal_Triangles\obj\Debug\Fractal_Triangles.Properties.Resources.resources
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Fractal_Triangles\Fractal_Triangles\obj\Debug\Fractal_Triangles.csproj.GenerateResource.Cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Fractal_Triangles\Fractal_Triangles\obj\Debug\Fractal_Triangles.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Fractal_Triangles\Fractal_Triangles\obj\Debug\Fractal_Triangles.exe
+C:\Users\Nuts\greenfox\damil84\week-03\day-5\Fractal_Triangles\Fractal_Triangles\obj\Debug\Fractal_Triangles.pdb
