@@ -1,0 +1,16 @@
+C:\Users\Nuts\Documents\Visual Studio 2017\Projects\Exercise_11\Exercise_11\obj\Debug\Exercise_11.csprojResolveAssemblyReference.cache
+C:\Users\Nuts\Documents\Visual Studio 2017\Projects\Exercise_11\Exercise_11\obj\Debug\MainWindow.g.cs
+C:\Users\Nuts\Documents\Visual Studio 2017\Projects\Exercise_11\Exercise_11\obj\Debug\App.g.cs
+C:\Users\Nuts\Documents\Visual Studio 2017\Projects\Exercise_11\Exercise_11\obj\Debug\Exercise_11_MarkupCompile.cache
+C:\Users\Nuts\Documents\Visual Studio 2017\Projects\Exercise_11\Exercise_11\obj\Debug\Exercise_11_MarkupCompile.lref
+C:\Users\Nuts\Documents\Visual Studio 2017\Projects\Exercise_11\Exercise_11\bin\Debug\Foxdraw.cs
+C:\Users\Nuts\Documents\Visual Studio 2017\Projects\Exercise_11\Exercise_11\bin\Debug\Exercise_11.exe.config
+C:\Users\Nuts\Documents\Visual Studio 2017\Projects\Exercise_11\Exercise_11\bin\Debug\Exercise_11.exe
+C:\Users\Nuts\Documents\Visual Studio 2017\Projects\Exercise_11\Exercise_11\bin\Debug\Exercise_11.pdb
+C:\Users\Nuts\Documents\Visual Studio 2017\Projects\Exercise_11\Exercise_11\obj\Debug\MainWindow.baml
+C:\Users\Nuts\Documents\Visual Studio 2017\Projects\Exercise_11\Exercise_11\obj\Debug\Exercise_11.g.resources
+C:\Users\Nuts\Documents\Visual Studio 2017\Projects\Exercise_11\Exercise_11\obj\Debug\Exercise_11.Properties.Resources.resources
+C:\Users\Nuts\Documents\Visual Studio 2017\Projects\Exercise_11\Exercise_11\obj\Debug\Exercise_11.csproj.GenerateResource.Cache
+C:\Users\Nuts\Documents\Visual Studio 2017\Projects\Exercise_11\Exercise_11\obj\Debug\Exercise_11.csproj.CoreCompileInputs.cache
+C:\Users\Nuts\Documents\Visual Studio 2017\Projects\Exercise_11\Exercise_11\obj\Debug\Exercise_11.exe
+C:\Users\Nuts\Documents\Visual Studio 2017\Projects\Exercise_11\Exercise_11\obj\Debug\Exercise_11.pdb
