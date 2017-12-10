@@ -22,7 +22,7 @@ namespace Fractal_Triangles
         {
             InitializeComponent();
             var foxDraw = new FoxDraw(canvas);
-            DrawTriangles(foxDraw, 0, 0, 550, 7);
+            DrawTriangles(foxDraw, 0, 0, 560, 7);
         }
 
         static void DrawTriangles(FoxDraw foxDraw, double startingX, double startingY, double size, int levels)
