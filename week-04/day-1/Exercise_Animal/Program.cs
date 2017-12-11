@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace Exercise_Animal
 {
@@ -6,7 +10,10 @@ namespace Exercise_Animal
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var Animals = new Animal();
+            Animals.Eat();
+            Animals.Drink();
+            Animals.Play();
         }
     }
 }
