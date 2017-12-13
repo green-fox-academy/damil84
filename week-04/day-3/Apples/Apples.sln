@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apples", "Apples\Apples.csproj", "{DC0E192F-D5EC-481C-9052-ACF3DC6FE5F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{EB998035-03DE-4876-A6BA-B91CC0044BA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC0E192F-D5EC-481C-9052-ACF3DC6FE5F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC0E192F-D5EC-481C-9052-ACF3DC6FE5F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC0E192F-D5EC-481C-9052-ACF3DC6FE5F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC0E192F-D5EC-481C-9052-ACF3DC6FE5F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB998035-03DE-4876-A6BA-B91CC0044BA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB998035-03DE-4876-A6BA-B91CC0044BA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB998035-03DE-4876-A6BA-B91CC0044BA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB998035-03DE-4876-A6BA-B91CC0044BA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2664ED1F-54CD-4D4D-8BC0-F84BEAEBD015}
+	EndGlobalSection
+EndGlobal
