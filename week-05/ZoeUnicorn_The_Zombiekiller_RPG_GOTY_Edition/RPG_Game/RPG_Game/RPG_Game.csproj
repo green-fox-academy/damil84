@@ -96,5 +96,24 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets\boss.png" />
+    <Resource Include="Assets\floor1.png" />
+    <Resource Include="Assets\floor10.png" />
+    <Resource Include="Assets\floor2.png" />
+    <Resource Include="Assets\floor3.png" />
+    <Resource Include="Assets\floor4.png" />
+    <Resource Include="Assets\floor5.png" />
+    <Resource Include="Assets\floor6.png" />
+    <Resource Include="Assets\floor7.png" />
+    <Resource Include="Assets\floor8.png" />
+    <Resource Include="Assets\floor9.png" />
+    <Resource Include="Assets\wall.png" />
+    <Resource Include="Assets\wall2.png" />
+    <Resource Include="Assets\zoe.png" />
+    <Resource Include="Assets\zoeBack.png" />
+    <Resource Include="Assets\zoeLeft.png" />
+    <Resource Include="Assets\zoeRight.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
