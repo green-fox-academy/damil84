@@ -18,9 +18,14 @@ namespace RPG_Game
 {
     public partial class MainWindow : Window
     {
+        public FoxDraw foxDraw;
+        public FoxDraw foxDrawHero;
+
         public MainWindow()
         {
             InitializeComponent();
+            foxDraw = new FoxDraw(canvas);
+            foxDrawHero = new FoxDraw(canvas);
         }
     }
 }
