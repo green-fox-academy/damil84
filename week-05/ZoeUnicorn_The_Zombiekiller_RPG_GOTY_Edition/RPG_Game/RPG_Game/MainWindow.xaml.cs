@@ -27,7 +27,7 @@ namespace RPG_Game
             foxDraw = new FoxDraw(canvas);
             foxDrawHero = new FoxDraw(canvas);
 
-
+            var mymap = new Map(foxDraw);
             foxDrawHero.AddImage("./Assets/zoe.png", 0, 0);
         }
 
