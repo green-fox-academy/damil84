@@ -26,6 +26,46 @@ namespace RPG_Game
             InitializeComponent();
             foxDraw = new FoxDraw(canvas);
             foxDrawHero = new FoxDraw(canvas);
+
+
+            foxDrawHero.AddImage("./Assets/zoe.png", 0, 0);
+        }
+
+        private new void KeyDownEvent(object sender, KeyEventArgs e)
+        {
+
+
+            if (e.Key == Key.Right)
+            {
+                foxDrawHero.Tiles[0].Source = new BitmapImage(new Uri("./Assets/zoeRight.png", UriKind.Relative));
+                double x = foxDrawHero.GetLeft(foxDrawHero.Tiles[0]) + 50;
+                double y = foxDrawHero.GetTop(foxDrawHero.Tiles[0]);
+                foxDrawHero.SetPosition(foxDrawHero.Tiles[0], x, y);
+            }
+
+            if (e.Key == Key.Down)
+            {
+                double x = foxDrawHero.GetLeft(foxDrawHero.Tiles[0]);
+                double y = foxDrawHero.GetTop(foxDrawHero.Tiles[0]) + 50;
+                foxDrawHero.Tiles[0].Source = new BitmapImage(new Uri("./Assets/zoe.png", UriKind.Relative));
+                foxDrawHero.SetPosition(foxDrawHero.Tiles[0], x, y);
+            }
+
+            if (e.Key == Key.Up)
+            {
+                double x = foxDrawHero.GetLeft(foxDrawHero.Tiles[0]);
+                double y = foxDrawHero.GetTop(foxDrawHero.Tiles[0]) - 50;
+                foxDrawHero.Tiles[0].Source = new BitmapImage(new Uri("./Assets/zoeBack.png", UriKind.Relative));
+                foxDrawHero.SetPosition(foxDrawHero.Tiles[0], x, y);
+            }
+
+            if (e.Key == Key.Left)
+            {
+                double x = foxDrawHero.GetLeft(foxDrawHero.Tiles[0]) - 50;
+                double y = foxDrawHero.GetTop(foxDrawHero.Tiles[0]);
+                foxDrawHero.Tiles[0].Source = new BitmapImage(new Uri("./Assets/zoeLeft.png", UriKind.Relative));
+                foxDrawHero.SetPosition(foxDrawHero.Tiles[0], x, y);
+            }
         }
     }
 }

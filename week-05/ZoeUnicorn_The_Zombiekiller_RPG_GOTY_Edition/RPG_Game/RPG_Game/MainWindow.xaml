@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RPG_Game"
         mc:Ignorable="d"
-        Title="ZoeUnicorn the Zombie-Killer" Height="550" Width="750">
+        Title="ZoeUnicorn the Zombie-Killer" Height="550" Width="750" KeyDown="KeyDownEvent">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="500"/>
