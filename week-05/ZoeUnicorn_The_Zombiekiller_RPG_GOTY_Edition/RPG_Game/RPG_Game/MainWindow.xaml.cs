@@ -20,14 +20,15 @@ namespace RPG_Game
     {
         public FoxDraw foxDraw;
         public FoxDraw foxDrawHero;
+        public Map mymap;
 
         public MainWindow()
         {
             InitializeComponent();
             foxDraw = new FoxDraw(canvas);
             foxDrawHero = new FoxDraw(canvas);
-
-            var mymap = new Map(foxDraw);
+            mymap = new Map(foxDraw);
+            mymap.MapCreater();
             foxDrawHero.AddImage("./Assets/zoe.png", 0, 0);
         }
 
@@ -37,10 +38,17 @@ namespace RPG_Game
 
             if (e.Key == Key.Right)
             {
+
+                if (mymap.tilelist[listcounter] == 0)
+                {
+
+                }
+
                 foxDrawHero.Tiles[0].Source = new BitmapImage(new Uri("./Assets/zoeRight.png", UriKind.Relative));
                 double x = foxDrawHero.GetLeft(foxDrawHero.Tiles[0]) + 50;
                 double y = foxDrawHero.GetTop(foxDrawHero.Tiles[0]);
                 foxDrawHero.SetPosition(foxDrawHero.Tiles[0], x, y);
+
             }
 
             if (e.Key == Key.Down)
@@ -69,3 +77,4 @@ namespace RPG_Game
         }
     }
 }
+

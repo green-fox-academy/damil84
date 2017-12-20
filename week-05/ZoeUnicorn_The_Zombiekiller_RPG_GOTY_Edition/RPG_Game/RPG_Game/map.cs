@@ -7,9 +7,10 @@ using Greenfox;
 
 namespace RPG_Game
 {
-    class map
+    public class Map
     {
         public static Random randomNumberGenerator = new Random();
+
         public int MapWidth { get; private set; }
         public int MapHeigth { get; private set; }
         public FoxDraw myfoxDraw { get; set; }
