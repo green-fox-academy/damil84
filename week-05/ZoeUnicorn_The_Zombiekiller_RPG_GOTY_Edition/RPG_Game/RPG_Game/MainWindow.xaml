@@ -5,8 +5,22 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RPG_Game"
         mc:Ignorable="d"
-        Title="ZoeUnicorn the Zombie-Killer" Height="550" Width="750" KeyDown="KeyDownEvent">
+        Title="ZoeUnicorn the Zombie-Killer" Height="550" Width="750">
     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="500"/>
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="25"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="500"/>
+            <ColumnDefinition Width="250"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Grid.Row="0" Grid.Column="0" Content="" Background="Gray"/>
+        <Label Grid.Row="0" Grid.Column="1" Content="Player Data" Background="DarkGreen"/>
+        <Label Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" Content="Menu" Background="LightSeaGreen"/>
         <Canvas Name="canvas"/>
     </Grid>
 </Window>
