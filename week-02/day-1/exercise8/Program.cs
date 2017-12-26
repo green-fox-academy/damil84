@@ -6,15 +6,11 @@ namespace exercise8
     {
         static void Main(string[] args)
         {
-            // Swap the values of the variables
-            int a = 123;
-            int b = 526;
-
-            a = a + b;
-            b = a - b;
-            a = a - b;
-            Console.WriteLine("a= " + a);
-            Console.WriteLine("b= " + b);
+            Console.WriteLine("Original numbers are a= 123, b= 526");
+            Console.WriteLine("Press Enter for swapping");
+            Console.ReadLine();
+            Functions calculations = new Functions();
+            calculations.Calculations();
             Console.ReadLine();
         }
     }
