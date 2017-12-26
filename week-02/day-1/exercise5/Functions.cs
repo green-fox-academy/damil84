@@ -2,7 +2,7 @@
 
 namespace exercise5
 {
-    class Functions : Program
+    class Functions
     {
         public void Calculations()
         {
