@@ -6,18 +6,18 @@ namespace exercise5
     {
         public void Calculations()
         {
-            Console.WriteLine("Please type the first number");
+            Console.WriteLine("Please type the first number >>");
             int firstNumber;
             while (!int.TryParse(Console.ReadLine(), out firstNumber))
             {
-                Console.WriteLine("This is not an integer number, please try to type first number again");
+                Console.WriteLine("This is not an integer number, please try to type first number again >>");
             }
 
-            Console.WriteLine("Please now type the second number");
+            Console.WriteLine("Please now type the second number >>");
             int secondNumber;
             while (!int.TryParse(Console.ReadLine(), out secondNumber))
             {
-                Console.WriteLine("This is not an integer number, please try to type second number again");
+                Console.WriteLine("This is not an integer number, please try to type second number again >>");
             }
 
             Console.WriteLine();
