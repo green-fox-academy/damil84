@@ -8,6 +8,9 @@ namespace exercise9
     {
         public void BMIcalculation()
         {
+            Console.WriteLine("Please tell me your name >>");
+            string name = Console.ReadLine(); 
+
             Console.WriteLine("Please type in your mass in kilograms >>");
             double massInKg;
             while (!double.TryParse(Console.ReadLine(), out massInKg))
@@ -23,7 +26,7 @@ namespace exercise9
             }
 
             double bmi = massInKg / (heightInM * heightInM);
-            Console.WriteLine("Your BMI is " + bmi);
+            Console.WriteLine("Dear {0}, your BMI value is {1} ", name, bmi);
         }
 
     }
