@@ -22,47 +22,44 @@ namespace exercise11
             d /= 5;
             Console.WriteLine(d);
 
-            int e = 8;
-            e = e * e * e;
+            double e = 8;
+            e = Math.Pow(e, 3);
             Console.WriteLine(e);
 
             int f1 = 123;
             int f2 = 345;
-            bool f = true;
-            f = (f1 > f2);
-            Console.WriteLine(f);
+            bool f = f1 > f2;
+            Console.WriteLine("{0} is bigger than {1}: {2}", f1, f2, f);
 
             int g1 = 350;
             int g2 = 200;
-            bool g = true;
-            g = (2 * g2 > g1);
-            Console.WriteLine(g);
+            bool g = 2 * g2 > g1;
+            Console.WriteLine("2 times {0} is bigger than {1} : {2}", g2, g1, g);
             
-            int h = 1357988018575474;
-            hhh = (h / 11);
-
-            bool hhh = true;
-
-            // tell if it has 11 as a divisor (print as a boolean)
+            double h = 1357988018575474;
+            bool hDivisor = h % 11 == 0;
+            Console.WriteLine("1357988018575474 has 11 as a divisor: " + hDivisor);
 
             int i1 = 10;
             int i2 = 3;
-            bool i = true;
-            i = (i1 > i2 * i2 && i1 < i2 * i2 * i2);
-            Console.WriteLine(i);
+            bool i = (i1 > Math.Pow(i2, 2) && i1 < Math.Pow(i2, 3));
+            Console.WriteLine("{0} is higher than {1} squared and smaller than {1} cubed: {2}", i1, i2, i);
 
-            int j = 1521;
-            bool j1 = true;
-            j1 = (j / 3 || j / 5);
-
-            // tell if j is dividable by 3 or 5 (print as a boolean)
+            int j1 = 1521;
+            bool j;
+            if (j1 % 3 == 0 || j1 % 5 == 0)
+            {
+                j = true;
+            }
+            else j = false;
+            Console.WriteLine("{0} is dividable 3 or 5: {1}", j1, j);
 
             string k = "Apple";
-            k = k + k + k + k;
-            Console.WriteLine(k);
-
+            for (int l = 0; l < 4; l++)
+            {
+                Console.Write(k);
+            }
             Console.ReadLine();
-            
         }
     }
 }
