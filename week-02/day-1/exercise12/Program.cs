@@ -6,20 +6,17 @@ namespace exercise12
     {
         static void Main(string[] args)
         {
-            double a;
-            double b;
-            double c;
             double surface;
             double volume;
 
             Console.WriteLine("Mennyi az a oldal értéke?:");
-            a = Int32.Parse(Console.ReadLine());
+            Double.TryParse(Console.ReadLine(), out double a);
 
             Console.WriteLine("Mennyi a b oldal értéke?:");
-            b = Int32.Parse(Console.ReadLine());
+            Double.TryParse(Console.ReadLine(), out double b);
 
             Console.WriteLine("Mennyi a c oldal értéke?:");
-            c = Int32.Parse(Console.ReadLine());
+            Double.TryParse(Console.ReadLine(), out double c);
 
             surface = 2 * (a * b + a * c + b * c);
             Console.WriteLine("felszíne: " + surface + "négyzetméter");
