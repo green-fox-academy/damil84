@@ -15,9 +15,5 @@ namespace Exercise_GreeterFunction
         {
             Console.WriteLine("Greetings dear, " + al + "!");
         }
-
-
-
-
     }
 }

@@ -8,3 +8,4 @@ C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_SwapElements\bin\Debug\net
 C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_SwapElements\bin\Debug\netcoreapp2.0\Exercise_SwapElements.pdb
 C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_SwapElements\obj\Debug\netcoreapp2.0\Exercise_SwapElements.dll
 C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_SwapElements\obj\Debug\netcoreapp2.0\Exercise_SwapElements.pdb
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_SwapElements\obj\Debug\netcoreapp2.0\Exercise_SwapElements.csprojResolveAssemblyReference.cache

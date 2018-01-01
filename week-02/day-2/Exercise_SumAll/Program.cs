@@ -13,7 +13,7 @@ namespace Exercise_SumAll
                 sum += ai[i];
             }
             Console.WriteLine(sum);
-            Console.Readline();
+            Console.ReadLine();
         }
     }
 }

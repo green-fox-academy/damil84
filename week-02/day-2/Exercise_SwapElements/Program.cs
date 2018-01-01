@@ -11,13 +11,11 @@ namespace Exercise_SwapElements
             abc[0] = abc[2];
             abc[2] = tmp;
 
-
-            for (int i = 0; i < abc.Length; i++)
+            foreach (string item in abc)
             {
-            Console.WriteLine(abc[i]);
+                Console.WriteLine(item);
             }
             Console.ReadLine();
         }
-
     }
 }

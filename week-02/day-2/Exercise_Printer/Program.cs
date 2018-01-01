@@ -6,16 +6,16 @@ namespace Exercise_Printer
     {
         static void Main(string[] args)
         {
-            string[] a = { "Canis Lupus", "Canis Rufus", "Canis Familiaris" };
-            Printer(a);
+            string[] stringArray = { "Canis Lupus", "Canis Rufus", "Canis Familiaris" };
+            Printer(stringArray);
             Console.ReadKey();
         }
         static void Printer(string[] array)
         {
             foreach (string item in array)
-        {
-            Console.WriteLine(item);
-        }
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }

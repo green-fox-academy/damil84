@@ -8,3 +8,4 @@ C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_DoubleItems\bin\Debug\netc
 C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_DoubleItems\bin\Debug\netcoreapp2.0\Exercise_DoubleItems.pdb
 C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_DoubleItems\obj\Debug\netcoreapp2.0\Exercise_DoubleItems.dll
 C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_DoubleItems\obj\Debug\netcoreapp2.0\Exercise_DoubleItems.pdb
+C:\Users\Nuts\greenfox\damil84\week-02\day-2\Exercise_DoubleItems\obj\Debug\netcoreapp2.0\Exercise_DoubleItems.csprojResolveAssemblyReference.cache

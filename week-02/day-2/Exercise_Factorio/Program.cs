@@ -12,9 +12,9 @@ namespace Exercise_Factorio
             Console.ReadLine();
 
         }
-        static int Factorio(int number)
+        static double Factorio(int number)
         {
-            int f = 1;
+            double f = 1;
             for (int i = 1; i <= number; i++)
             {
                 f = f * i;

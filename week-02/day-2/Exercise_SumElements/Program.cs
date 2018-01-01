@@ -7,12 +7,8 @@ namespace Exercise_SumElements
     {
         static void Main(string[] args)
         {
-            int[] r = new int[4];
-            r[0] = 54;
-            r[1] = 23;
-            r[2] = 66;
-            r[3] = 12;
-            
+            int[] r = new int[4]
+            { 54, 23, 66, 12};
             Console.WriteLine("The sum of the second an third element is: " + (r[1] + r[2]));
             Console.ReadKey();
         }

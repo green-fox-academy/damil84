@@ -7,6 +7,7 @@ namespace Exercise_Reverse
         static void Main(string[] args)
         {
             int[] aj = { 3, 4, 5, 6, 7 };
+            Console.WriteLine("Original order: {0}", string.Join(", ", aj));
             for (int i = 0; i < aj.Length / 2; i++)
             {
                 int tmp = aj[i];

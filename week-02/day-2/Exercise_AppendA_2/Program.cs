@@ -6,22 +6,13 @@ namespace AppendA_2
     {
         static void Main(string[] args)
         {
-            string[] animals = { "kuty", "macsk", "cic" };
-            AppendA(animals);
-            for (int i = 0; i < animals.Length; i++)
+            string[] nimals = { "kuty", "macsk", "cic" };
+            for (int i = 0; i < nimals.Length; i++)
             {
-                Console.WriteLine(animals[i]);
+                nimals[i] += "a";
+                Console.WriteLine(nimals[i]);
             }
             Console.ReadLine();
-        }
-
-        static string[] AppendA(string[] array)
-        {
-            for (int i = 0; i < array.Length; i++)
-            {
-                array[i] += "a";
-            }
-            return array;
         }
     }
 }

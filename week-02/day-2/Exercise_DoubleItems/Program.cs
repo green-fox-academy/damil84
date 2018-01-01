@@ -17,6 +17,5 @@ namespace Exercise_DoubleItems
             }
             Console.ReadLine();
         }
-
     }
 }

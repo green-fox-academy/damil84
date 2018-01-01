@@ -16,17 +16,13 @@ namespace Exercise_DiagonalMatrix
 
             for (int i = 0; i < array.GetLength(0); i++)
             {
-                for (int k = 0; k < array.GetLength(1); k++)
+                for (int j = 0; j < array.GetLength(1); j++)
                 {
-                    Console.Write(array[i, k]);
+                    Console.Write(array[i, j]);
                 }
                 Console.WriteLine();
-
-
             }
             Console.ReadLine();        
         }
-
-
     }
 }
