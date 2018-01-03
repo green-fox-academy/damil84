@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MatrixTransponse
+namespace MatrixTranspose
 {
     public static class Transposing
     {

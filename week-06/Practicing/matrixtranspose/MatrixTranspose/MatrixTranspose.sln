@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixTransponse", "MatrixTransponse\MatrixTransponse.csproj", "{7958ED42-71A6-461D-9F8C-EBE197941CE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixTranspose", "MatrixTranspose.csproj", "{36997C5F-DF34-440B-A48B-C6D92C9AECCC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7958ED42-71A6-461D-9F8C-EBE197941CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7958ED42-71A6-461D-9F8C-EBE197941CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7958ED42-71A6-461D-9F8C-EBE197941CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7958ED42-71A6-461D-9F8C-EBE197941CE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36997C5F-DF34-440B-A48B-C6D92C9AECCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36997C5F-DF34-440B-A48B-C6D92C9AECCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36997C5F-DF34-440B-A48B-C6D92C9AECCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36997C5F-DF34-440B-A48B-C6D92C9AECCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A8E615E0-E6D7-4136-9E09-662BC5D1CDCC}
+		SolutionGuid = {E2A2E656-77E6-4E97-B8A9-CE51FD81DFF1}
 	EndGlobalSection
 EndGlobal

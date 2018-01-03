@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MatrixTransponse
+namespace MatrixTranspose
 {
     public class Print
     {
@@ -12,7 +12,6 @@ namespace MatrixTransponse
                 {
                     Console.Write(arr[i, k]);
                 }
-
                 Console.WriteLine();
             }
             return;
