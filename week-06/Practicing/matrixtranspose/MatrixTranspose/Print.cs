@@ -4,7 +4,7 @@ namespace MatrixTranspose
 {
     public class Print
     {
-        public void Printer(int[,] arr)
+        public int[,] Printer(int[,] arr)
         {
             for (int i = 0; i < arr.GetLength(0); i++)
             {
@@ -14,7 +14,7 @@ namespace MatrixTranspose
                 }
                 Console.WriteLine();
             }
-            return;
+            return arr;
         }
     }
 }
