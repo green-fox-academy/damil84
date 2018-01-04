@@ -1,10 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Configuration;
 
 namespace MatrixTranspose
 {
@@ -18,15 +12,13 @@ namespace MatrixTranspose
                 {4, 5, 6},
                 {7, 8, 9,}
             };
-            var print = new Print();
-            print.Printer(myArray);
+            var printer = new Printer();
+            printer.Print(myArray);
             Console.WriteLine();
 
-            //int[,] transposedMyArray = myArray.TransposeRowsAndColumns();
             var transposing = new Transposing();
             int[,] transposedMyArray = myArray;
-            transposing.TransposeRowsAndColumns(transposedMyArray);
-            print.Printer(transposedMyArray);
+            printer.Print(transposing.TransposeRowsAndColumns(transposedMyArray));
             Console.ReadLine();
         }
     }

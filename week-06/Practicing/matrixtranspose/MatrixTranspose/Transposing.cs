@@ -4,7 +4,7 @@ namespace MatrixTranspose
 {
     public class Transposing
     {
-        public int[3,3] TransposeRowsAndColumns(int [,] arr)
+        public int[,] TransposeRowsAndColumns(int [,] arr)
         {
             int rowCount = arr.GetLength(0);
             int columnCount = arr.GetLength(1);

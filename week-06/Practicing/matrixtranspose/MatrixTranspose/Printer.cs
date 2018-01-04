@@ -2,9 +2,9 @@
 
 namespace MatrixTranspose
 {
-    public class Print
+    public class Printer
     {
-        public int[,] Printer(int[,] arr)
+        public int[,] Print(int[,] arr)
         {
             for (int i = 0; i < arr.GetLength(0); i++)
             {
