@@ -14,6 +14,5 @@ namespace SantasFactory
             Color = color;
             Type = type;
         }
-
     }
 }

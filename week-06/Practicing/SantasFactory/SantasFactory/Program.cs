@@ -38,6 +38,3 @@ namespace SantaFactory
             // The output should be "There are 0 undelivered toys in Santa's bag.";
             Console.WriteLine("There are {0} toys in Santa's bag.", santaBag.GetNumberOfItems());
         }
-
-    }
-}
