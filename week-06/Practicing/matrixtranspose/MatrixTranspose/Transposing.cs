@@ -15,9 +15,9 @@ namespace MatrixTranspose
                 {
                     for (int j = 0; j < i; j++)
                     {
-                        int temp = transposed[i, j];
-                        transposed[i, j] = transposed[j, i];
-                        transposed[j, i] = temp;
+                    int temp = transposed[i, j];
+                    transposed[i, j] = transposed[j, i];
+                    transposed[j, i] = temp;
                     }
                 }
            return transposed;

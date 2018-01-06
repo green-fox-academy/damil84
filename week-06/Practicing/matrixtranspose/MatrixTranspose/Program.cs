@@ -19,7 +19,7 @@ namespace MatrixTranspose
             var transposing = new Transposing();
             int[,] transposedMyArray = myArray;
             printer.Print(transposing.TransposeRowsAndColumns(transposedMyArray));
-            Console.ReadLine();
-        }
+
+            Console.ReadLine();        }
     }
 }
