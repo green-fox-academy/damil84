@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace SantaFactory
+namespace SantasFactory
 {
     public class SantaClaus
     {
+        private static SantasBag santasBag;
         public static List<string> Children = new List<string>() { "Peter", "Lily", "John", "Jane" };
 
         public static void Main(string[] args)
@@ -21,20 +22,21 @@ namespace SantaFactory
             // Santa brings the toys to the children until there is something in the bag.
             // When a toy is being delivered, it gets it's owner (a random children name) and gets removed from the bag.
             // Create the bring method.
-            var santaBag = new SantasBag();
+            var santasBag = new SantasBag();
 
-            var santaFactory = new SantaFactory();
-            santaBag.Add(santaFactory.Produce("doll", "pink"));
-            santaBag.Add(santaFactory.Produce("ball", "blue", 3));
-            santaBag.Add(santaFactory.Produce("ball", "yellow", 1));
-            santaBag.Add(santaFactory.Produce("rope", 22));
+            var santasFactory = new SantasFactory();
+
+            santasBag.Add(santasFactory.Produce("doll", "pink"));
+            santasBag.Add(santasFactory.Produce("ball", "blue", 3));
+            santasBag.Add(santasFactory.Produce("ball", "yellow", 1));
+            santasBag.Add(santasFactory.Produce("rope", 22));
 
             // The output should be "The factory's balance is: 140";
-            Console.WriteLine("The factory's balance is: {0}", santaFactory.GetBalance());
+            Console.WriteLine("The factory's balance is: {0}", santasFactory.GetBalance());
             // The output should be "There are 4 undelivered toys in Santa's bag.";
-            Console.WriteLine("There are {0} toys in Santa's bag.", santaBag.GetNumberOfItems());
+            Console.WriteLine("There are {0} toys in Santa's bag.", santasBag.GetNumberOfItems());
 
             BringToysToChildren();
             // The output should be "There are 0 undelivered toys in Santa's bag.";
-            Console.WriteLine("There are {0} toys in Santa's bag.", santaBag.GetNumberOfItems());
+            Console.WriteLine("There are {0} toys in Santa's bag.", santasBag.GetNumberOfItems());
         }
