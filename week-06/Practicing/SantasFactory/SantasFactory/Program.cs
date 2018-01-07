@@ -22,7 +22,7 @@ namespace SantasFactory
             // Santa brings the toys to the children until there is something in the bag.
             // When a toy is being delivered, it gets it's owner (a random children name) and gets removed from the bag.
             // Create the bring method.
-            var santasBag = new SantasBag();
+            santasBag = new SantasBag();
 
             var santasFactory = new SantasFactory();
             santasBag.Add(santasFactory.Produce("doll", "pink"));
@@ -51,6 +51,5 @@ namespace SantasFactory
                 santasBag.Deliver(randomChild);
             }
         }
-
     }
 }
