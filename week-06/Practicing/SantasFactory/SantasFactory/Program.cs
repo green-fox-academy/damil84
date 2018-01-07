@@ -39,6 +39,18 @@ namespace SantasFactory
             BringToysToChildren();
             // The output should be "There are 0 undelivered toys in Santa's bag.";
             Console.WriteLine("There are {0} toys in Santa's bag.", santasBag.GetNumberOfItems());
+            Console.ReadLine();
+        }
+
+        private static void BringToysToChildren()
+        {
+            var random = new Random();
+            while (santasBag.GetNumberOfItems() > 0)
+            {
+                string randomChild = Children[random.Next(4)];
+                
+            }
+
         }
     }
 }
