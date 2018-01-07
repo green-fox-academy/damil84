@@ -11,5 +11,10 @@ namespace SantasFactory
         {
             santaBag.Add(toys);
         }
+
+        public int GetNumberOfItems()
+        {
+           return santaBag.Count;
+        }
     }
 }
