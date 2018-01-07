@@ -9,10 +9,10 @@ namespace SantasFactory
         public string Color { get; set; }
         public int Size { get; set; }
 
-        public DottedBalls(string type, string color) : base (type, 10)
+        public DottedBalls(string type, string color, int size) : base (type, 10)
         {
             Color = color;
-            Type = type;
+            Size = size;
         }
     }
 }
