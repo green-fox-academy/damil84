@@ -25,7 +25,6 @@ namespace SantasFactory
             var santasBag = new SantasBag();
 
             var santasFactory = new SantasFactory();
-
             santasBag.Add(santasFactory.Produce("doll", "pink"));
             santasBag.Add(santasFactory.Produce("ball", "blue", 3));
             santasBag.Add(santasFactory.Produce("ball", "yellow", 1));
@@ -45,12 +44,13 @@ namespace SantasFactory
         private static void BringToysToChildren()
         {
             var random = new Random();
+
             while (santasBag.GetNumberOfItems() > 0)
             {
                 string randomChild = Children[random.Next(4)];
-                
+                santasBag.Deliver(randomChild);
             }
-
         }
+
     }
 }

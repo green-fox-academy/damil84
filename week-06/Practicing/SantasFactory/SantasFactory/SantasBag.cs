@@ -5,16 +5,23 @@ namespace SantasFactory
 {
     class SantasBag
     {
-        private List<Toys> santaBag = new List<Toys>();
+        private List<Toys> inSantasBag = new List<Toys>();
 
         public void Add(Toys toys)
         {
-            santaBag.Add(toys);
+            inSantasBag.Add(toys);
         }
 
         public int GetNumberOfItems()
         {
-           return santaBag.Count;
+           return inSantasBag.Count;
+        }
+
+        public void Deliver(string name)
+        {
+            int lastIndex= inSantasBag.Count-1;
+            inSantasBag[lastIndex].Owner = name;
+            inSantasBag.RemoveAt(lastIndex);
         }
     }
 }
