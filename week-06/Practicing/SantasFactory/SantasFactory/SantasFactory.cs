@@ -6,10 +6,7 @@ namespace SantasFactory
 {
     class SantasFactory
     {
-        public SantasFactory()
-        {
-
-        }
+        public int Balance { get; set; } = 200;
 
         public Toys Produce(string type, string color)
         {
@@ -17,7 +14,7 @@ namespace SantasFactory
             return doll;
         }
 
-        internal Toys Produce(string type, string color, int size)
+        public Toys Produce(string type, string color, int size)
         {
             Toys ball= new DottedBalls(type, color, size);
             return ball;
@@ -27,6 +24,11 @@ namespace SantasFactory
         {
             Toys rope = new JumpingRopes(type, lenght);
             return rope;
+        }
+
+        public int GetBalance()
+        {
+            return Balance;
         }
     }
 }
