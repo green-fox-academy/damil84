@@ -5,16 +5,11 @@ namespace SantasFactory
 {
     class SantasBag
     {
-        private List<Toys> santaBag = new List<Toys>();        
+        private List<Toys> santaBag = new List<Toys>();
 
-        public void Add()
+        public void Add(Toys toys)
         {
-            throw new NotImplementedException();
+            santaBag.Add(toys);
         }
-        public int GetNumberOfItems()
-        {
-            throw new NotImplementedException();
-        }
-
     }
 }
