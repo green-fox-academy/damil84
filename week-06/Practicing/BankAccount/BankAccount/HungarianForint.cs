@@ -3,13 +3,14 @@
     // Create a constructor that accepts the value.
     // The code should be "HUF"
     // and the central bank name should be "Hungarian National Bank
-    internal class HungarianForint : Currency
+    class HungarianForint : Currency
     {
-        private int v;
+        private const string Code = "HUF";
+        private const string CentralBankName = "Hungarian National Bank";
 
-        public HungarianForint(int v)
+        public HungarianForint(int value) : base (Code, CentralBankName)
         {
-            this.v = v;
+            Value =value;
         }
     }
 }
