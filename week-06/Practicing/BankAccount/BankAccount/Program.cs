@@ -13,9 +13,6 @@ namespace BankAccounts
             // Create a HungarianForint class that inherits from the Currency.
 
             // Create a BankAccount class.
-            
-            // Create a deposit method which check if the given parameter is positive
-            // then adds the parameter to the Currency's value field.
 
             // Create a withdraw method with two parameters: a pin code and an amount.
             // It should check if the given pin is correct (equals with the original pin)

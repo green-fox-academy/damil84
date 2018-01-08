@@ -1,18 +1,28 @@
-﻿namespace BankAccounts
-{
-    // It should have a name, a pin code and a Currency field.
-    // Create a constructor for setting those values.
-    internal class BankAccount
-    {
-        private string v1;
-        private string v2;
-        private Currency janeCash;
+﻿using System;
 
-        public BankAccount(string v1, string v2, Currency janeCash)
+namespace BankAccounts
+{
+    // Create a deposit method which check if the given parameter is positive
+    // then adds the parameter to the Currency's value field.
+    class BankAccount
+    {
+        private string Name { get; set; }
+        private string PinCode { get; set; }
+        private Currency Currency { get; set; }
+
+        public BankAccount(string name, string pinCode, Currency currency)
         {
-            this.v1 = v1;
-            this.v2 = v2;
-            this.janeCash = janeCash;
+            Name = name;
+            PinCode = pinCode;
+            Currency = currency;
+        }
+
+        public void Deposit(int amount)
+        {
+            if (amount > 0)
+            {
+                Currency.Value += amount;
+            }
         }
     }
 }
