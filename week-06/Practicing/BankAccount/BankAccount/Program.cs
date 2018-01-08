@@ -14,12 +14,6 @@ namespace BankAccounts
 
             // Create a BankAccount class.
 
-            // Create a withdraw method with two parameters: a pin code and an amount.
-            // It should check if the given pin is correct (equals with the original pin)
-            // and the Currency's value is more than the amount parameter.
-            // If so, subtract the amount from the Currency's value and return with the amount.
-            // Otherwise don't modify the Currency's value and return with 0.
-
             // Create a Bank class which can store BankAccounts.
            
             // For example:
