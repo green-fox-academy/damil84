@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BankAccounts
 {
-    class Currency
+    public class Currency
     { // It should have a code, a central bank name and a value field.
       // Create a constructor for setting those values.
         public string CentralBankName { get; set; }

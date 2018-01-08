@@ -1,4 +1,7 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 
 namespace BankAccounts
 {
@@ -9,8 +12,19 @@ namespace BankAccounts
     {
         private List<BankAccount> AccountList = new List<BankAccount>();
 
-        public Bank()
+        public void CreateAccount(BankAccount bankAccount)
         {
+            AccountList.Add(bankAccount);
+        }
+
+        public int GetAllMoney()
+        {
+            int allMoney = 0;
+            foreach (BankAccount bankAccount in AccountList)
+                allMoney += bankAccount.Currency.Value;
+            return allMoney;
+
+           
         }
     }
 }

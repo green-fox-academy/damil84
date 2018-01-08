@@ -1,6 +1,6 @@
 ﻿namespace BankAccounts
 {
-    class UsaDollar : Currency
+    public class UsaDollar : Currency
     {
         private const string Code = "USD";
         private const string CentralBankName = "Federal Reserve System";
