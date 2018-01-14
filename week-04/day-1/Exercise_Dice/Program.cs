@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleApp10
 {
@@ -10,12 +7,12 @@ namespace ConsoleApp10
     {
         static void Main(string[] args)
         {
-            dice Dice1 = new dice();
+            var Dice1 = new Dice();
 
-            List<dice> dices = new List<dice>();
+            var dices = new List<Dice>();
             for (int i = 0; i < 6; i++)
             {
-                dices.Add(new dice() { diceValue = 6 });
+                dices.Add(new Dice() { DiceValue = 6 });
             }
 
             for (int j = 0; j < dices.Count; j++)
