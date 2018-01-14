@@ -1,17 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Exercise_Farm
 {
     class Farm
     {
         public List<Animals> AnimalList { get; set; }
-        public int FreePlaces { get; set; }
+        public double FreePlaces { get; set; }
 
-        public Farm(List<Animals> animalList, int freePlaces)
+        public Farm(List<Animals> animalList, double freePlaces)
         {
             AnimalList = animalList;
             FreePlaces = freePlaces - animalList.Count;

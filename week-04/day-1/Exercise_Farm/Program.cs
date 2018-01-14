@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace Exercise_Farm
 {
@@ -10,7 +7,6 @@ namespace Exercise_Farm
     {
         static void Main(string[] args)
         {
-            var Animals = new Animals();
             var dog = new Animals();
             var cow = new Animals();
             var chicken = new Animals();
@@ -18,19 +14,36 @@ namespace Exercise_Farm
             var cat = new Animals();
 
             var farm = new Farm(new List<Animals>() { dog, cow, chicken, pig, cat }, 5);
-            Console.WriteLine("Dog hunger value is: " + dog.HungerValue + " shit");
 
             dog.Eat();
             cow.Eat();
-            Console.WriteLine("Dog hunger value is: " + dog.HungerValue + " shit");
+            dog.Play();
+            dog.Play();
+            dog.Play();
+            cat.Play();
+            cat.Play();
+            cat.Play();
+            cat.Play();
+            pig.Eat(); pig.Eat(); pig.Eat(); pig.Eat(); pig.Eat(); pig.Eat(); pig.Eat(); pig.Eat(); pig.Eat(); pig.Eat(); pig.Eat();
+
+            Console.WriteLine("The chicken's hunger is: " + chicken.GetHungerStatus() + ", and the chicken's thirst is: " + chicken.GetThirstStatus());
+            Console.WriteLine("The cow's hunger is: " + cow.GetHungerStatus() + ", and the cow's thirst is: " + cow.GetThirstStatus());
+            Console.WriteLine("The pig's hunger is: " + pig.GetHungerStatus() + ", and the pig's thirst is: " + pig.GetThirstStatus());
+            Console.WriteLine("The cat's hunger is: " + cat.GetHungerStatus() + ", and the cat's thirst is: " + cat.GetThirstStatus());
+            Console.WriteLine("The dog's hunger is: " + dog.GetHungerStatus() + ", and the wolf's thirst is: " + dog.GetThirstStatus());
+
+            farm.Slaughter();
+            farm.Breed();
+            farm.Breed();
+            farm.Breed();
+
+            for (int i = 0;  i <farm.AnimalList.Count; i++)
+            {
+                Console.WriteLine(farm.AnimalList[i].HungerValue);
+                Console.WriteLine(farm.AnimalList[i].ThirstValue);
+            }
+
             Console.ReadLine();
-
-
-
-
-
-            //farm = new Farm(new List<Farm>() 
-
         }
     }
 }

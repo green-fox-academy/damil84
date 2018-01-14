@@ -1,21 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace Exercise_Farm
 {
     class Animals
     {
-        public int HungerValue { get; set; }
-        public int ThirstValue { get; set; }
-
-        public Animal()
-        {
-            HungerValue = 50;
-            ThirstValue = 50;
-        }
+        public int HungerValue { get; set; } = 50;
+        public int ThirstValue { get; set; } = 50;
 
         public void Eat()
         {
@@ -31,6 +21,16 @@ namespace Exercise_Farm
         {
             HungerValue++;
             ThirstValue++;
+        }
+
+        public int GetHungerStatus()
+        {
+            return HungerValue;
+        }
+
+        public int GetThirstStatus()
+        {
+            return ThirstValue;
         }
     }
 }
