@@ -1,22 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace Exercise_Animal
+﻿namespace Exercise_Animal
 {
     class Animal
     {
-        public int HungerValue { get; set; }
-        public int ThirstValue { get; set; }
-
-        public void Animals()
-        {
-            HungerValue = 50;
-            ThirstValue = 50;
-        }
-
+        public int HungerValue { get; set; } = 50;
+        public int ThirstValue { get; set; } = 50;
+      
         public void Eat()
         {
             HungerValue--;
@@ -33,8 +21,14 @@ namespace Exercise_Animal
             ThirstValue++;
         }
 
+        public int GetHungerStatus()
+        {
+            return HungerValue;
+        }
 
-
-
+        public int GetThirstStatus()
+        {
+            return ThirstValue;
+        }
     }
 }
