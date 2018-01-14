@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Exercise_PostitStruct
+﻿namespace Exercise_PostitStruct
 {
     public struct Postit
     {
@@ -14,4 +8,3 @@ namespace Exercise_PostitStruct
         public string PublicationDate { get; set; }
     }
 }
-
