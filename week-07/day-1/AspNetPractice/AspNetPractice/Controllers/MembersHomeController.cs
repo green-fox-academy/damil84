@@ -9,9 +9,12 @@ using AspNetPractice.Models;
 
 namespace AspNetPractice.Controllers
 {
+    [Route("[controller]")]
     public class MembersHomeController : Controller
     {
         // GET: /<controller>/
+        [Route("")]
+        [Route("[action]")]
         public IActionResult Index(int id)
         {
             Contact contact = new Contact()
@@ -19,6 +22,11 @@ namespace AspNetPractice.Controllers
                 Id = id
             };
             return View(contact);
+        }
+        [Route("access")]
+        public  IActionResult AccessGranted()
+        {
+            return View();
         }
     }
 }

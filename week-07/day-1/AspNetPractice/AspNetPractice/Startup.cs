@@ -28,18 +28,18 @@ namespace AspNetPractice
 
             //app.UseMvcWithDefaultRoute();
             app.UseMvc(
-                    routes =>
-                    {
-                        routes.MapRoute("Default", "{controller=Home}/{action=Index}/{id?}")
-                               .MapRoute("Members", "Members/{controller=MembersHome}/{action=Index}/{id?}");
-                    }
+                    //routes =>
+                    //{
+                    //    routes.MapRoute("Default", "{controller=Home}/{action=Index}/{id?}")
+                    //           .MapRoute("Members", "Members/{controller=MembersHome}/{action=Index}/{id?}");
+                    //}
                 );
 
 
-            app.Run(async (context) =>
-            {
-                await context.Response.WriteAsync("Hello Steve!");
-            });
+            //app.Run(async (context) =>
+            //{
+            //    await context.Response.WriteAsync("Hello Steve!");
+            //});
         }
     }
 }

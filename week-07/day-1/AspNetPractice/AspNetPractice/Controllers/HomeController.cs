@@ -9,14 +9,19 @@ using AspNetPractice.Models;
 
 namespace AspNetPractice.Controllers
 {
+    [Route("")]
+    [Route("Home")]
     public class HomeController : Controller
     {
         // GET: /<controller>/
+        [Route("")]
+        [Route("index")]
+        [Route("index/{ id}")]
         public IActionResult Index(int id)
         {
             Contact contact = new Contact()
             {
-                FirstName = "Jhonny",
+                FirstName = "Johnny",
                 LastName = "Bravo",
                 Id = id
             };
