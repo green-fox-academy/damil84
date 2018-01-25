@@ -1,14 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace GreetCounterREST.Controllers
 {
-    [Route("")]
     [Route("Home")]
     public class HomeController : Controller
     {
@@ -17,18 +12,13 @@ namespace GreetCounterREST.Controllers
         [Route("index")]
         public IActionResult Index()
         {
-            return View();
+            return Content("Hello HomeIndex");
         }
 
-        [Route("")]
         [Route("hello")]
         public IActionResult Hello()
         {
             return Content("Hello-bello, dear world!");
         }
-
-
-
-
     }
 }
