@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using HelloWorldREST.Models;
 
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -21,11 +17,11 @@ namespace HelloWorldREST.Controllers
             return Content("API index, Hello!");
         }
 
-        [Route("")]
         [Route("Greeting")]
+        [Route("Greeting/{name}")]
         public IActionResult Greeting([FromQuery]string name)
         {
-            var greeting = new Greeting(1,name);
+            var greeting = new Greeting(name);
             return new JsonResult(greeting);
         }
     }
