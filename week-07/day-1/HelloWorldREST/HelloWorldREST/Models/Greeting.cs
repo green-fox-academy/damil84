@@ -12,9 +12,8 @@ namespace HelloWorldREST.Models
 
         public Greeting(long id)
         {
-            Id = id;
+            Id = 1;
             Content = "Hello-bello-jello!";
-
         }
     }
 }
