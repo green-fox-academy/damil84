@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace AspNetPratice_3.Controllers
+namespace Demo_Week_08.Controllers
 {
     public class WhatController : Controller
     {

@@ -16,7 +16,7 @@ namespace AspNetPractice.Controllers
         // GET: /<controller>/
         [Route("")]
         [Route("index")]
-        [Route("index/{ id}")]
+        [Route("index/{id}")]
         public IActionResult Index(int id)
         {
             Contact contact = new Contact()

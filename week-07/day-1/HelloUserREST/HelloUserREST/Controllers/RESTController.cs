@@ -9,23 +9,24 @@ using HelloWorldREST.Models;
 
 namespace HelloWorldREST.Controllers
 {
-    
-    [Route("Home")]
-    public class HomeController : Controller
+    [Route("")]
+    [Route("api")]
+    public class RESTController : Controller
     {
         // GET: /<controller>/
         [Route("")]
         [Route("index")]
         public IActionResult Index()
         {
-            return Content("Hello HomeIndex");
+            return Content("API index, Hello!");
         }
 
-       
-        [Route("hello")]
-        public IActionResult Hello()
+        [Route("")]
+        [Route("Greeting")]
+        public IActionResult Greeting([FromQuery]string name)
         {
-            return Content("Hello-bello, dear world!");
+            var greeting = new Greeting(1,name);
+            return new JsonResult(greeting);
         }
     }
 }

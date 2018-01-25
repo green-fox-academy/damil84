@@ -13,8 +13,7 @@ namespace AspNetPractice.Controllers
     public class MembersHomeController : Controller
     {
         // GET: /<controller>/
-        [Route("")]
-        [Route("[action]")]
+            
         public IActionResult Index(int id)
         {
             Contact contact = new Contact()

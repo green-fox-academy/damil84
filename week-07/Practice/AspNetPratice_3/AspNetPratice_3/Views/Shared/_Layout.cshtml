@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - AspNetPratice_3</title>
+    <title>@ViewData["Title"] - Demo Week-08</title>
 
     <environment include="Development">
         <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
@@ -26,14 +26,17 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand">AspNetPratice_3</a>
+                <a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand">Demo Week-08</a>
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li><a asp-area="" asp-controller="Home" asp-action="Index" class="btn btn-danger">Home</a></li>
-                    <li><a asp-area="" asp-controller="Home" asp-action="About"class="progress-bar-danger">About</a></li>
-                    <li><a asp-area="" asp-controller="Home" asp-action="Contact" class="pagination">Contact</a></li>
-                    <li><a asp-area="" asp-controller="Home" asp-action="Customers">Customers</a></li>
+                    <li><a asp-area="" asp-controller="Home" asp-action="Monday">Monday</a></li>
+                    <li><a asp-area="" asp-controller="Home" asp-action="Tuesday">Tuesday</a></li>
+                    <li><a asp-area="" asp-controller="Home" asp-action="Wednesday">Wednesday</a></li>
+                    <li><a asp-area="" asp-controller="Home" asp-action="Thursday">Thursday</a></li>
+                    <li><a asp-area="" asp-controller="Home" asp-action="Friday">Friday</a></li>
+                    <li><a asp-area="" asp-controller="Home" asp-action="About" class="btn btn-danger">About</a></li>
                 </ul>
             </div>
         </div>
@@ -42,7 +45,7 @@
         @RenderBody()
         <hr />
         <footer>
-            <p>&copy; 2018 - AspNetPratice_3</p>
+            <p>&copy; 2018 - András Diós</p>
         </footer>
     </div>
 

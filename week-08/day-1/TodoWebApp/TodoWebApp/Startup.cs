@@ -6,9 +6,8 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Logging;
 
-namespace HelloWorldREST
+namespace TodoWebApp
 {
     public class Startup
     {
@@ -20,11 +19,9 @@ namespace HelloWorldREST
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
-            loggerFactory.AddConsole();
             app.UseMvc();
-
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
@@ -32,7 +29,7 @@ namespace HelloWorldREST
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("WTF is this");
+                await context.Response.WriteAsync("Hello to you, you son of a gun!");
             });
         }
     }

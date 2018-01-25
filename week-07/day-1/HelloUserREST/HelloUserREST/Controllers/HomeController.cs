@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace HelloUserRest.Controllers
 {
-    [Route("")]
+
     [Route("Home")]
     public class HomeController : Controller
     {
@@ -17,18 +17,14 @@ namespace HelloUserRest.Controllers
         [Route("index")]
         public IActionResult Index()
         {
-            return View();
+            return Content("Hello HomeIndex");
         }
 
-        [Route("")]
+
         [Route("hello")]
         public IActionResult Hello()
         {
             return Content("Hello-bello, dear world!");
         }
-
-
-
-
     }
 }

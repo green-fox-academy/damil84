@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using AspNetPratice_3.Models;
+using Demo_Week_08.Models;
 
-namespace AspNetPratice_3.Controllers
+namespace Demo_Week_08.Controllers
 {
     public class HomeController : Controller
     {
@@ -15,19 +15,40 @@ namespace AspNetPratice_3.Controllers
             return View();
         }
 
-        public IActionResult Customers()
+        public IActionResult Monday()
         {
             return View();
         }
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "This is my About page, which is about About.";
 
             return View();
         }
 
-        public IActionResult Contact()
+        public IActionResult Tuesday()
+        {
+            ViewData["Message"] = "Your contact page.";
+
+            return View();
+        }
+
+        public IActionResult Wednesday()
+        {
+            ViewData["Message"] = "Your contact page.";
+
+            return View();
+        }
+
+        public IActionResult Thursday()
+        {
+            ViewData["Message"] = "Your contact page.";
+
+            return View();
+        }
+
+        public IActionResult Friday()
         {
             ViewData["Message"] = "Your contact page.";
 
