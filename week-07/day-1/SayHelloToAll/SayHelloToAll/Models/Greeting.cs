@@ -1,4 +1,4 @@
-﻿namespace WebGreetCounter.Models
+﻿namespace SayHelloToAll.Models
 {
     public class Greeting
     {

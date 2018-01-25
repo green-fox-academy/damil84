@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace WebGreetCounter.Controllers
+namespace SayHelloToAll.Controllers
 {
     [Route("Home")]
     public class HomeController : Controller

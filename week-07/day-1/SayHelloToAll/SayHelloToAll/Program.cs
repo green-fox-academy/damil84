@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 
-namespace WebGreetCounter
+namespace SayHelloToAll
 {
     public class Program
     {

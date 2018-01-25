@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using WebGreetCounter.Models;
+using SayHelloToAll.Models;
 
-namespace WebGreetCounter.Controllers
+namespace SayHelloToAll.Controllers
 {
     [Route("")]
     [Route("api")]
