@@ -7,15 +7,14 @@ namespace GreetCounterREST.Controllers
     [Route("Home")]
     public class HomeController : Controller
     {
-        // GET: /<controller>/
         [Route("")]
-        [Route("index")]
+        [HttpGet("index")]
         public IActionResult Index()
         {
             return Content("Hello HomeIndex");
         }
 
-        [Route("hello")]
+        [HttpGet("hello")]
         public IActionResult Hello()
         {
             return Content("Hello-bello, dear world!");

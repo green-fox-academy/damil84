@@ -5,12 +5,12 @@ using GreetCounterREST.Models;
 
 namespace GreetCounterREST.Controllers
 {
-    [Route("")]
     [Route("api")]
     public class RESTController : Controller
     {
         public static int userCounter { get; set; } = 0;
         // GET: /<controller>/
+        
         [Route("")]
         [Route("index")]
         public IActionResult Index()
