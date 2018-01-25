@@ -1,15 +1,15 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using HelloWorldWeb.Models;
+using WebGreetCounter.Models;
 
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
-namespace HelloWorldWeb.Controllers
+namespace WebGreetCounter.Controllers
 {
     [Route("")]
     [Route("api")]
     public class RESTController : Controller
     {
-        public static int userCounter { get; set; } = 0;
+        public static int UserCounter { get; set; } = 0;
         // GET: /<controller>/
         [Route("")]
         [Route("index")]
@@ -19,11 +19,10 @@ namespace HelloWorldWeb.Controllers
         }
 
         [Route("Greeting")]
-        [Route("Greeting/{name}")]
         public IActionResult Greeting([FromQuery]string name)
         {
-            userCounter++;
-            var hello = new Greeting(name, userCounter);
+            UserCounter++;
+            var hello = new Greeting(name, UserCounter);
             return new JsonResult(hello);
         }
     }
