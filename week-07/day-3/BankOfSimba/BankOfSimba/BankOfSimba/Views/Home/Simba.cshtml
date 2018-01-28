@@ -1,0 +1,28 @@
+﻿@model BankOfSimba.Models.BankAccount
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Bank of Simba</title>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    @{
+        <h1>@Model.Name</h1>
+        <table style="display:flex">
+            <tr>
+                <th>Balance</th>
+                <th>AnimalType</th>
+            </tr>
+            <tr>
+                <td>@Model.Balance</td>
+                <td>@Model.AnimalType</td>
+            </tr>
+
+        </table>
+
+    }
+</body>
+</html>
