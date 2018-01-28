@@ -6,14 +6,18 @@
 <body>
     <table border="1">
         <tr>
+            <th>Index</th>
             <th>Name</th>
             <th>Balance</th>
             <th>Currency</th>
             <th>AnimalType</th>
         </tr>
+        @{int indexCounter = 0; }
         @foreach (var account in Model.AccountList)
         {
+            indexCounter++;
             <tr>
+                <td>@indexCounter</td>
                 <td>@account.Name</td>
                 <td>@account.Balance</td>
                 <td>@account.Currency</td>
