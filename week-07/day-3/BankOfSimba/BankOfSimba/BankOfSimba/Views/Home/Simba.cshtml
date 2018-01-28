@@ -2,29 +2,25 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <title>Bank of Simba</title>
-    <style>
-        table, th, td {
-            border: 1px solid black;
-        }
-    </style>
 </head>
 <body>
     @{
         <h1>@Model.Name</h1>
-        <table style="display:flex">
+        <table border="1">
             <tr>
+                <th>Name</th>
                 <th>Balance</th>
                 <th>Currency</th>               
                 <th>AnimalType</th>
             </tr>
             <tr>
+                <td>@Model.Name</td>
                 <td>@Model.Balance</td>
                 <td>@Model.Currency</td>
                 <td>@Model.AnimalType</td>
             </tr>
 
         </table>
-
     }
 </body>
 </html>
