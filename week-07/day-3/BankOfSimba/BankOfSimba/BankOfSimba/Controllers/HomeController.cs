@@ -4,26 +4,32 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using BankOfSimba.Models;
+using BankOfSimba.ViewModels;
 
 namespace BankOfSimba.Controllers
 {   
     [Route("")]
     public class HomeController : Controller
     {
-        //// GET: /<controller>/
         [Route("index")]
         public IActionResult Index()
         {
             return View();
         }
 
-        //[Route("simba")]
         [HttpGet("Simba")]
         public IActionResult Simba()
         {
             BankAccount account = new BankAccount("Simba", 2000.00, "zebra", "Lion");
 
             return View(account);
+        }
+
+        [HttpGet("Accounts")]
+        public IActionResult Accounts()
+        {
+            AccountsViewModel accounts = new AccountsViewModel();
+            return View(accounts);
         }
     }
 }
