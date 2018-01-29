@@ -12,6 +12,7 @@
             <th>Currency</th>
             <th>AnimalType</th>
             <th>Status</th>
+            <th>Affiliation</th>
         </tr>
         @{int indexCounter = 0; }
         @foreach (var account in Model.AccountList)
@@ -34,6 +35,17 @@
                         }
                     }
                 </td>
+                <td>
+                    @if (account.Affiliation == true)
+                    {
+                        @:BabyFace  
+                    }
+                    else
+                    {
+                        @:Heel
+                    }
+                </td>
+
             </tr>
 
         }

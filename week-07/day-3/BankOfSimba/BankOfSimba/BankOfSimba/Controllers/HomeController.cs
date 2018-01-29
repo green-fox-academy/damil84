@@ -20,7 +20,7 @@ namespace BankOfSimba.Controllers
         [HttpGet("Simba")]
         public IActionResult Simba()
         {
-            BankAccount account = new BankAccount("Simba", 2000.00, "zebra", "Lion");
+            BankAccount account = new BankAccount("Simba", 2000.00, "zebra", "Lion", true);
 
             return View(account);
         }
