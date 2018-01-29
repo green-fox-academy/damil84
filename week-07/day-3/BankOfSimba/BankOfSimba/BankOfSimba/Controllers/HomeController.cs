@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using BankOfSimba.Models;
 using BankOfSimba.ViewModels;
@@ -11,7 +12,6 @@ namespace BankOfSimba.Controllers
     [Route("")]
     public class HomeController : Controller
     {
-        [Route("index")]
         public IActionResult Index()
         {
             return View();
@@ -31,5 +31,14 @@ namespace BankOfSimba.Controllers
             AccountsViewModel accounts = new AccountsViewModel();
             return View(accounts);
         }
+
+        [HttpGet("About")]
+        public IActionResult About()
+        {
+            ViewData["Message"] = "This is Bank of Simba's About page, which is about About.";
+
+            return View();
+        }
+
     }
 }
