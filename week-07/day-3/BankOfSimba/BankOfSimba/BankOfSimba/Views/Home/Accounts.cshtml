@@ -11,6 +11,7 @@
             <th>Balance</th>
             <th>Currency</th>
             <th>AnimalType</th>
+            <th>Status</th>
         </tr>
         @{int indexCounter = 0; }
         @foreach (var account in Model.AccountList)
@@ -22,6 +23,17 @@
                 <td>@account.Balance</td>
                 <td>@account.Currency</td>
                 <td>@account.AnimalType</td>
+                <td>
+                    @{ if (account.Name == "Simba")
+                        {
+                            <span style="color:orangered">K.I.N.G.</span>
+                        }
+                        else
+                        {
+                            @:peasant
+                        }
+                    }
+                </td>
             </tr>
 
         }
