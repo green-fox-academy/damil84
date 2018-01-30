@@ -10,51 +10,96 @@
     <title>Bank of Simba</title>
 </head>
 <body>
-    <table border="1">
-        <tr>
-            <th>Index</th>
-            <th>Name</th>
-            <th>Balance</th>
-            <th>Currency</th>
-            <th>AnimalType</th>
-            <th>Status</th>
-            <th>Affiliation</th>
-        </tr>
-        @{int indexCounter = 0; }
-        @foreach (var account in Model.AccountList)
-        {
-            indexCounter++;
-            <tr>
-                <td>@indexCounter</td>
-                <td>@account.Name</td>
-                <td>@account.Balance</td>
-                <td>@account.Currency</td>
-                <td>@account.AnimalType</td>
-                <td>
-                    @{ if (account.Name == "Simba")
+    <form method="post">
+        <table class="table" border="1">
+            <thead>
+                <tr>
+                    <th>Index</th>
+                    <th>Name</th>
+                    <th>Balance</th>
+                    <th>Currency</th>
+                    <th>AnimalType</th>
+                    <th>Status</th>
+                    <th>Affiliation</th>
+                    <th>TBA:Functions</th>
+                </tr>
+            </thead>
+            <tbody>
+            @{int indexCounter = 0; }
+            @foreach (var account in Model.AccountList)
+            {
+                indexCounter++;
+                <tr>
+                    <td>@indexCounter</td>
+                    <td>@account.Name</td>
+                    <td>@account.Balance</td>
+                    <td>@account.Currency</td>
+                    <td>@account.AnimalType</td>
+                    <td>
+                        @{ if (account.Name == "Simba")
+                            {
+                                <span style="color:orangered">KING</span>
+                            }
+                            else
+                            {
+                                @:peasant
+                            }
+                        }
+                    </td>
+                    <td>
+                        @if (account.Affiliation == true)
                         {
-                            <span style="color:orangered">K.I.N.G.</span>
+                            @:BabyFace
                         }
                         else
                         {
-                            @:peasant
+                            @:Heel
                         }
-                    }
-                </td>
-                <td>
-                    @if (account.Affiliation == true)
-                    {
-                        @:BabyFace  
-                    }
-                    else
-                    {
-                        @:Heel
-                    }
-                </td>
+                    </td>
+                        <td>
+                            <a asp-page="./Edit" asp-route-id="@account.Name">edit</a>
+                            <button type="submit" asp-page-handler="delete"
+                                    asp-route-id="@account.Name">
+                                delete
+                            </button>
+                        </td>
+                    </tr>
+             }
+            </tbody>
+        </table>
 
-            </tr>
+        <a asp-page="./Create">Create Account</a>
+    </form>
+    <p></p>
+    <form action="/add" method="post">
+        Name:
+        <input type="text" name="Name">
+        <br />
+        Balance:
+        <input type="text" name="Balance">
+        <br />
+        Currency:
+        <input type="text" name="Currency">
+        <br />
+        AnimalType:
+        <input type="text" name="AnimalType">
+        <br />
+        Status:
+        <input type="text" name="Status">
+        <br />
+        Affiliation:
+        <input type="text" name="Affiliation">
+        <br />
+        <input type="submit" value="Submit">
+    </form>
 
-        }
-    </table>
+    <form action="/raisecurrency" method="post">
+        Please write the name of your choosing to raise his/her currency by 10. (if it is King Simba, the raise will be 100)
+        Name:
+        Raise currency:
+        <input type="text" name="name">
+        <input type="submit" value="Submit">
+
+    </form>
 </body>
 </html>

@@ -8,10 +8,11 @@ using BankOfSimba.Models;
 using BankOfSimba.ViewModels;
 
 namespace BankOfSimba.Controllers
-{   
+{
     [Route("")]
     public class HomeController : Controller
     {
+        static AccountsViewModel accounts = new AccountsViewModel();
         public IActionResult Index()
         {
             return View();
@@ -28,7 +29,6 @@ namespace BankOfSimba.Controllers
         [HttpGet("Accounts")]
         public IActionResult Accounts()
         {
-            AccountsViewModel accounts = new AccountsViewModel();
             return View(accounts);
         }
 
@@ -40,5 +40,43 @@ namespace BankOfSimba.Controllers
             return View();
         }
 
+        [HttpPost("Add")]
+        public IActionResult AddAcount(BankAccount bankAccount)
+        {
+            accounts.AccountList.Add(bankAccount);
+            return RedirectToAction("Accounts");
+        }
+
+        [HttpPost("RaiseCurrency")]
+        public IActionResult RaiseCurrency(string name)
+        {
+            foreach (var animal in accounts.AccountList)
+            {
+                if (animal.Name == name)
+                {
+                    if(animal.Status == "KING")
+                    {
+                        animal.Balance += 100;
+                    }
+                    else
+                    {
+                            animal.Balance += 10;
+                    }
+                }
+                else
+                {
+                   
+                }
+            }
+
+
+            return RedirectToAction("Accounts");
+        }
+
+        [HttpPost("RaiseCurrencyName")]
+        public IActionResult RaiseCurrencyName()
+        {
+            return RedirectToAction("Accounts");
+        }
     }
 }
