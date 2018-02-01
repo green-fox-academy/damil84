@@ -20,8 +20,10 @@ namespace PallidaExam.Controllers
         }
 
         [HttpGet("search")]
-        public IActionResult Index([FromQuery]string platenumber)
+        public IActionResult Index([FromQuery]string plateNumber, string police, string diplomat)
         {
+            if (plateNumber != null && police == null && diplomat == null)
+                return View(carRepository.FilterPlates(plateNumber));
             return View(carRepository.GetCar());
         }
 
@@ -30,20 +32,7 @@ namespace PallidaExam.Controllers
 
 
 
-        //public IActionResult Index([FromQuery]string platenumber, string police, string diplomat)
-        //{
-        //    if (platenumber != null && police == null && diplomat == null)
-        //        return View(carRepository.FilterPlates(platenumber));
-        //    //else if (platenumber == null && police == null && diplomat == null)
-        //    //    return View(carRepository.GetCar());
-        //    else if (police != null && platenumber == null && diplomat == null)
-        //        return View(carRepository.GetPolice());
-        //    else if (diplomat != null && platenumber == null && police == null)
-        //        return View(carRepository.GetDiplomat());
-        //    else
-        //        return View(carRepository.GetCar());
 
-        //}
 
         [HttpGet("search/{brand}")]
         public IActionResult FilterBrand()
