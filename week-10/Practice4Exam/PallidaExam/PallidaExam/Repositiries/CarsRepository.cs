@@ -15,16 +15,18 @@ namespace PallidaExam.Repositiries
             this.carsContext = carsContext;
         }
 
-        public List<Cars> GetCar()
+        public List<Cars> GetCar(string plateNumber, string police, string diplomat)
         {
-            return carsContext.Cars.ToList();
+            if (plateNumber == "1")
+                return carsContext.Cars.Where(car => car.LicencePlate.Contains(plateNumber)).ToList();
+            else if (police == "1")
+                return carsContext.Cars.Where(car => car.LicencePlate.StartsWith("RB")).ToList();
+            else if (diplomat == "1")
+                return carsContext.Cars.Where(car => car.LicencePlate.StartsWith("DT")).ToList();
+            else
+                return carsContext.Cars.ToList();
         }
 
-        public List<Cars> FilterPlates(string plateNumber)
-        {
-            return carsContext.Cars.Where(car => car.LicencePlate.Contains(plateNumber)).ToList();
-        }
-
-
+     
     }
 }

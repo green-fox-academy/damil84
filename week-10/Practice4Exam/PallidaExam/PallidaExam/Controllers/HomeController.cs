@@ -5,8 +5,6 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using PallidaExam.Repositiries;
 
-// For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-
 namespace PallidaExam.Controllers
 {
     [Route("")]
@@ -22,22 +20,13 @@ namespace PallidaExam.Controllers
         [HttpGet("search")]
         public IActionResult Index([FromQuery]string plateNumber, string police, string diplomat)
         {
-            if (plateNumber != null && police == null && diplomat == null)
-                return View(carRepository.FilterPlates(plateNumber));
-            return View(carRepository.GetCar());
+            return View(carRepository.GetCar(plateNumber,police,diplomat));
         }
 
-
-
-
-
-
-
-
         [HttpGet("search/{brand}")]
-        public IActionResult FilterBrand()
+        public IActionResult FilterBrand([FromQuery]string brand)
         {
-            return Ok();
+            return ;
         }
     }
 }
