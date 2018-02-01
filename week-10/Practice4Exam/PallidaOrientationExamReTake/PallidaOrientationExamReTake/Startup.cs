@@ -18,7 +18,9 @@ namespace PallidaOrientationExamReTake
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
-            services.AddDbContext<WebStoreContext>(options => options.UseSqlServer(@""))
+            services.AddScoped<WebStore>();
+            services.AddScoped<WebStoreRepository>();
+            services.AddDbContext<WebStoreContext>(options => options.UseSqlServer(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=GreenFoxStore;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

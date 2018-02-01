@@ -1,17 +1,16 @@
-﻿using System;
+﻿using PallidaOrientationExamReTake.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using PallidaOrientationExamReTake.Models;
-using PallidaOrientationExamReTake.Entities;
 
 namespace PallidaOrientationExamReTake.Repositories
 {
-    public class WebShopRepository
+    public class WebStoreRepository
     {
         private WebStoreContext webStoreContext;
 
-        public WebShopRepository(WebStoreContext webStoreContext)
+        public WebStoreRepository(WebStoreContext webStoreContext)
         {
             this.webStoreContext = webStoreContext;
         }
