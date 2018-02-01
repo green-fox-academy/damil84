@@ -24,9 +24,9 @@ namespace PallidaExam.Controllers
         }
 
         [HttpGet("search/{brand}")]
-        public IActionResult FilterBrand([FromQuery]string brand)
+        public IActionResult FilterBrand([FromRoute]string brand)
         {
-            return ;
+            return View("Index", carRepository.FilterBrand(brand));
         }
     }
 }

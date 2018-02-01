@@ -27,6 +27,9 @@ namespace PallidaExam.Repositiries
                 return carsContext.Cars.ToList();
         }
 
-     
+        public List<Cars> FilterBrand(string brand)
+        {
+            return carsContext.Cars.Where(car => car.Brand.Equals(brand)).ToList();
+        }
     }
 }
