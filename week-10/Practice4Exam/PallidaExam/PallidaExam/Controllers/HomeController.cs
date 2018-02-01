@@ -20,25 +20,35 @@ namespace PallidaExam.Controllers
         }
 
         [HttpGet("search")]
-        public IActionResult Index([FromQuery]string platenumber, string police, string diplomat)
+        public IActionResult Index([FromQuery]string platenumber)
         {
-            if (platenumber != null && police == null && diplomat == null)
-                return View(carRepository.FilterPlates(platenumber));
-            //else if (platenumber == null && police == null && diplomat == null)
-            //    return View(carRepository.GetCar());
-            else if (police != null && platenumber == null && diplomat == null)
-                return View(carRepository.GetPolice());
-            else if (diplomat != null && platenumber == null && police == null)
-                return View(carRepository.GetDiplomat());
-            else
-                return View(carRepository.GetCar());
-
+            return View(carRepository.GetCar());
         }
 
+
+
+
+
+
+        //public IActionResult Index([FromQuery]string platenumber, string police, string diplomat)
+        //{
+        //    if (platenumber != null && police == null && diplomat == null)
+        //        return View(carRepository.FilterPlates(platenumber));
+        //    //else if (platenumber == null && police == null && diplomat == null)
+        //    //    return View(carRepository.GetCar());
+        //    else if (police != null && platenumber == null && diplomat == null)
+        //        return View(carRepository.GetPolice());
+        //    else if (diplomat != null && platenumber == null && police == null)
+        //        return View(carRepository.GetDiplomat());
+        //    else
+        //        return View(carRepository.GetCar());
+
+        //}
+
         [HttpGet("search/{brand}")]
-        public IActionResult FilterBrand([FromRoute]string brand)
+        public IActionResult FilterBrand()
         {
-            return View("Index", carRepository.GetBrand(brand));
+            return Ok();
         }
     }
 }

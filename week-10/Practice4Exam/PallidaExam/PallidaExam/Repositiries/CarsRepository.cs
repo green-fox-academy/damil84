@@ -1,35 +1,23 @@
-﻿using System;
+﻿using PallidaExam.Entities;
+using PallidaExam.Models;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
+
 
 namespace PallidaExam.Repositiries
 {
     public class CarsRepository
     {
-        internal string GetDiplomat()
+        private CarsContext carsContext;
+
+        public CarsRepository(CarsContext carsContext)
         {
-            throw new NotImplementedException();
+            this.carsContext = carsContext;
         }
 
-        internal string GetCar()
+        public List<Cars> GetCar()
         {
-            throw new NotImplementedException();
-        }
-
-        internal object GetBrand(string brand)
-        {
-            throw new NotImplementedException();
-        }
-
-        internal string FilterPlates(string platenumber)
-        {
-            throw new NotImplementedException();
-        }
-
-        internal string GetPolice()
-        {
-            throw new NotImplementedException();
+            return carsContext.Cars.ToList();
         }
     }
 }

@@ -1,4 +1,42 @@
-﻿@page
-@model IndexModel
-@{
-}
+﻿@model System.Collections.Generic.List<PallidaExam.Models.Cars>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Carseseseses</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <form action="/search" method="get">
+        <input type="text" name="platenumber" placeholder="Licence Plate" value="" />
+        <button type="submit">Search</button>
+        <a href="/search?police=1">Police cars only</a>
+        <a href="/search?diplomat=1">Diplomats only</a>
+    </form>
+    <form action="/search" method="get">
+        <button type="submit">Back</button>
+    </form>
+    <br />
+    <form action="search" method="get"></form>
+    <table>
+        <tr>
+            <th>Licence Plate</th>
+            <th>Brand</th>
+            <th>Model</th>
+            <th>Color</th>
+            <th>Year</th>
+        </tr>
+        @foreach (var item in @Model)
+        {
+            <tr>
+                <td>@item.LicencePlate</td>
+                <td>
+                    <a href="/search/@item.Brand">@item.Brand</a>
+                </td>
+                <td>@item.Model</td>
+                <td>@item.Color</td>
+                <td>@item.Year</td>
+            </tr>
+        }
+    </table>
+</body>
+</html>
