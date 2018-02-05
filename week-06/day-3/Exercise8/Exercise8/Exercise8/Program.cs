@@ -10,12 +10,11 @@ namespace Exercise8
             Console.WriteLine("Hello dear User!");
             Console.WriteLine("Type your text here!");
             string userString = Console.ReadLine();
-            char[] ary = userString.ToCharArray();
             Console.WriteLine();
 
-            var stringUpper1 = from a in userString
-                               where a.ToString() == a.ToString().ToUpper()
-                               select a;
+            var stringUpper1 = from upper in userString
+                               where upper.ToString() == upper.ToString().ToUpper()
+                               select upper;
 
             var stringUpper2 = userString.Where(c => char.IsUpper(c));
 
