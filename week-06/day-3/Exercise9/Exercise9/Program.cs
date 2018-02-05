@@ -16,7 +16,6 @@ namespace Exercise9
                                select c.ToString();
             string text1 = string.Join(string.Empty, stringConvert1);
 
-
             var stringConvert2 = userString.Select(c => char.ToString(c));
             string text2 = string.Join(string.Empty, stringConvert2);
             Console.WriteLine("Exercise solution with query syntax:");
