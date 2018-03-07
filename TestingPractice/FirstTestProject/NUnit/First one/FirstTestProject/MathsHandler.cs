@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace FirstTestProject
+﻿namespace FirstTestProject
 {
     public class MathsHandler
     {
@@ -15,6 +11,5 @@ namespace FirstTestProject
         {
             return ValueA - ValueB;
         }
-
     }
 }

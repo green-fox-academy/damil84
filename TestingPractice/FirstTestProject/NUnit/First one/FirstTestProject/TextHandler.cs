@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace FirstTestProject
 {
@@ -21,5 +19,4 @@ namespace FirstTestProject
             throw new NotImplementedException();
         }
     }
-
 }

@@ -1,6 +1,5 @@
 ﻿using FirstTestProject;
 using NUnit.Framework;
-using System;
 
 namespace TestMyApplication
 {
@@ -20,6 +19,5 @@ namespace TestMyApplication
             var mh = new MathsHandler();
             Assert.AreEqual(-4, mh.Sub(8, 12));
         }
-
     }
 }
