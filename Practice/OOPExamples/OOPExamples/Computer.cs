@@ -6,8 +6,19 @@ namespace OOPExamples
 {
     class Computer
     {
-        protected string _name;
-        public string Name { get; set; }
-
+        protected string _name = "Unknown";
+        public string Name { get
+            {
+                return _name;
+            }
+                private set
+            {
+                _name = value;
+            }
+        }
+        public Computer(string Name)
+        {
+            this.Name = Name;
+        }
     }
 }
