@@ -18,5 +18,10 @@ namespace PallidaExam.Controllers
             this.carRepository = carRepository;
         }
 
+        [HttpGet("search/{brand}")]
+        public IActionResult SearchBrand([FromRoute]string brand)
+        {
+            return Json(new { result = "ok", data = carRepository.FilterBrand(brand) });
+        }
     }
 }
