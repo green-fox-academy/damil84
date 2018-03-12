@@ -6,5 +6,8 @@ namespace OOPExamples
 {
     class Computer
     {
+        protected string _name;
+        public string Name { get; set; }
+
     }
 }
